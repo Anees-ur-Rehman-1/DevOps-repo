@@ -1,8 +1,7 @@
-________________________________________
 # What Is DevOps? 
 ________________________________________
-#Definition 
-DevOps is a software development approach that emphasizes collaboration, communication, and integration between development teams and IT operations teams to automate and streamline the software delivery process. The goal of DevOps is to improve the speed and efficiency of software development and deployment while maintaining high quality and reliability
+### Definition 
+*DevOps is a software development approach that emphasizes collaboration, communication, and integration between development teams and IT operations teams to automate and streamline the software delivery process. The goal of DevOps is to improve the speed and efficiency of software development and deployment while maintaining high quality and reliability*
 
 ________________________________________
 # How does DevOps work? 
