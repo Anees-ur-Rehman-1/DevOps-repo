@@ -10,9 +10,9 @@
  
 
 ## Importance of SDLC 
-1	* It provides a standardized framework that defines activities and deliverables
-2	*It aids in project planning, estimating, and scheduling*
-3	It makes project tracking and control easier
+1.	It provides a standardized framework that defines activities and deliverables
+2.	*It aids in project planning, estimating, and scheduling*
+3.	It makes project tracking and control easier
 •	It increases visibility on all aspects of the life cycle to all stakeholders involved in the development process
 •	It increases the speed of development
 •	It improves client relations
