@@ -1,11 +1,11 @@
 ________________________________________
-#What Is DevOps? 
+# What Is DevOps? 
 ________________________________________
 #Definition 
 DevOps is a software development approach that emphasizes collaboration, communication, and integration between development teams and IT operations teams to automate and streamline the software delivery process. The goal of DevOps is to improve the speed and efficiency of software development and deployment while maintaining high quality and reliability
 
 ________________________________________
-#How does DevOps work? 
+# How does DevOps work? 
 ________________________________________
 
 A DevOps team includes developers and IT operations working collaboratively throughout the product lifecycle, in order to increase the speed and quality of software deployment. It’s a new way of working, a cultural shift , that has significant implications for teams and the organizations they work for.
@@ -15,7 +15,7 @@ DevOps values are sometimes applied to teams other than development. When securi
 
 
 ________________________________________
-#The DevOps lifecycle 
+# The DevOps lifecycle 
 ________________________________________
 Because of the continuous nature of DevOps, practitioners use the infinity loop to show how the phases of the DevOps lifecycle relate to each other. Despite appearing to flow sequentially, the loop symbolizes the need for constant collaboration and iterative improvement throughout the entire lifecycle.
 
