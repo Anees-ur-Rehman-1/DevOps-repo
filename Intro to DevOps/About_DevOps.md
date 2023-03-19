@@ -18,14 +18,15 @@ DevOps values are sometimes applied to teams other than development. When securi
 
  
 *The DevOps lifecycle consists of eight phases representing the processes, capabilities, and tools needed for development (on the left side of the loop) and operations (on the right side of the loop). Throughout each phase, teams collaborate and communicate to maintain alignment, velocity, and quality.*
-*1. Plan: Defining the objectives, requirements, and scope of the software project.Tools used: Trello, Asana, Jira
-*2. Code: Writing and reviewing code for the software. It includes version control, code review, and collaboration among developers. Tools used: Bitbucket, GitLab, Git, GitHub
-*3. Build: Compiling the code and generating executable files Tools used: Gradle, Maven*
-*4. Test: Testing for bugs and errors. Tools used: Selenium, JUni*
-*5. Release: Preparing the software for release and production. Tools used: Jenkins*
-*6. Deploy: Deploying the software to production environments. Tools used: Kubernetes, Docker, Ansible, Chef, Puppet*
-*7. Operate: Smooth production assurance. Tools used: Nagios, New Relic*
-*8. Monitor: Monitoring for issues, bugs, and errors, and taking corrective action as needed. Tools used: Nagios*
+## Eight Phases
+1. Plan: Defining the objectives, requirements, and scope of the software project.Tools used: Trello, Asana, Jira
+2. Code: Writing and reviewing code for the software. It includes version control, code review, and collaboration among developers. Tools used: Bitbucket, GitLab, Git, GitHub
+3. Build: Compiling the code and generating executable files Tools used: Gradle, Maven
+4. Test: Testing for bugs and errors. Tools used: Selenium, JUni
+5. Release: Preparing the software for release and production. Tools used: Jenkins
+6. Deploy: Deploying the software to production environments. Tools used: Kubernetes, Docker, Ansible, Chef, Puppet
+7. Operate: Smooth production assurance. Tools used: Nagios, New Relic
+8. Monitor: Monitoring for issues, bugs, and errors, and taking corrective action as needed. Tools used: Nagios
 ### Stages of DevOps
 1. Version Control: Collaborative coding, change/ update code. (GitHub)
 2. Continuous Integration (CI): Integrating and testing code changes frequently to ensure that code is working as expected and there are no conflicts. (Jenkins)
