@@ -1,7 +1,8 @@
 # DevOps-repo
 All This repository contains information and resources related to DevOps practices and principles.
 
-#Table of Contents
+# Table of Contents
+
 . Introduction
 . Principles of DevOps
 . DevOps Tools
@@ -10,17 +11,21 @@ All This repository contains information and resources related to DevOps practic
 . Monitoring and Logging
 . Security in DevOps
 . Contributing
-Introduction
+# Introduction
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives. The main goal of DevOps is to foster collaboration between development and operations teams, automate infrastructure, and continuously deliver high-quality software.
 
-Principles of DevOps
+# Principles of DevOps
 The principles of DevOps are:
 
-Culture: Foster a culture of collaboration and trust between development and operations teams.
-Automation: Automate as many processes as possible to increase efficiency and reduce errors.
-Measurement: Use data to measure performance and identify areas for improvement.
-Sharing: Share knowledge and tools between teams to increase efficiency and reduce duplication of effort.
-DevOps Tools
+# Culture: 
+Foster a culture of collaboration and trust between development and operations teams.
+# Automation: 
+Automate as many processes as possible to increase efficiency and reduce errors.
+# Measurement: 
+Use data to measure performance and identify areas for improvement.
+# Sharing: 
+Share knowledge and tools between teams to increase efficiency and reduce duplication of effort.
+# DevOps Tools
 There are many tools available for implementing DevOps practices. Some of the most popular DevOps tools include:
 
 Source code management (SCM) tools: Git, Subversion, Mercurial
