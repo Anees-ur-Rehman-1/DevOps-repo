@@ -4,7 +4,7 @@ All This repository contains information and resources related to DevOps practic
 ## Table of Contents
 
 ### Introduction
-### * * Principles of DevOps
+* * Principles of DevOps
 ### DevOps Tools
 ### Continuous Integration and Deployment
 ### Infrastructure as Code
