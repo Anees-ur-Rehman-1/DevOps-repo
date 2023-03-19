@@ -10,14 +10,14 @@
  
 
 ## Importance of SDLC 
-1.	It provides a standardized framework that defines activities and deliverables
+1.	*It provides a standardized framework that defines activities and deliverables*
 2.	*It aids in project planning, estimating, and scheduling*
-3.	It makes project tracking and control easier
-•	It increases visibility on all aspects of the life cycle to all stakeholders involved in the development process
-•	It increases the speed of development
-•	It improves client relations
-•	It decreases project risks
-•	It decreases project management expenses and the overall cost of production
+3.	*It makes project tracking and control easier*
+4.	*It increases visibility on all aspects of the life cycle to all stakeholders involved in the development process*
+5. *It increases the speed of development*
+6.	*It improves client relations*
+7.	*It decreases project risks*
+8.	*It decreases project management expenses and the overall cost of production*
 ## Working of SDLC 
 ## Planning phase
 The planning phase encompasses all aspects of project and product management. This typically includes resource allocation, capacity planning, project scheduling, cost estimation, and provisioning.
