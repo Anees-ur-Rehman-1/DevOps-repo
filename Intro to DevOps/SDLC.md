@@ -1,9 +1,9 @@
 # Software Development Life Cycle (SDLC)
 
 ## Definition
-The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time. The goal of the SDLC is to produce superior software that meets and exceeds all customer expectations and demands. The SDLC defines and outlines a detailed plan with stages, or phases, that each encompass their own process and deliverables. Adherence to the SDLC enhances development speed and minimizes project risks and costs associated with alternative methods of production
+*The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time. The goal of the SDLC is to produce superior software that meets and exceeds all customer expectations and demands. The SDLC defines and outlines a detailed plan with stages, or phases, that each encompass their own process and deliverables. Adherence to the SDLC enhances development speed and minimizes project risks and costs associated with alternative methods of production*
 ## Definition
-Software Development life cycle (SDLC) is a spiritual model used in project management that defines the stages include in an information system development project, from an initial feasibility study to the maintenance of the completed application.
+*Software Development life cycle (SDLC) is a spiritual model used in project management that defines the stages include in an information system development project, from an initial feasibility study to the maintenance of the completed application.*
 
 ![software-development-life-cycle-802x1024](https://user-images.githubusercontent.com/125833255/226198954-bd8df596-ad71-472a-94ca-5592cce11e87.jpg)
 
@@ -25,11 +25,11 @@ During the planning phase, the development team collects input from stakeholders
 Expectations are clearly defined during this stage as well, the team determines not only what is desired in the software, but also what is NOT. The tangible deliverables produced from this phase include project plans, estimated costs, projected schedules, and procurement needs. 
 ## Coding phase
 The coding phase includes system design in an integrated development environment. It also includes static code analysis and code review for multiple types of devices.
-Building Phase
+## Building Phase
 The building phase takes the code requirements determined earlier and uses those to begin actually building the software.
 ## Testing Phase
 The phase entails the evaluation of the created software. The testing team evaluates the developed products in order to assess whether they meet the requirements specified in the ‘planning’ phase. 
-Assessments entail the performance of functional testing
+## Assessments entail the performance of functional testing
 unit testing, code quality testing, integration testing, system testing, security testing, performance testing and acceptance testing, as well as nonfunctional testing. If a defect is identified, developers are notified. Validated (actual) defects are resolved, and a new version of the software is produced.
 The best method for ensuring that all tests are run regularly and reliably , is to implement automated testing. Continuous integration tools assist with this need.
 ## Release Phase
