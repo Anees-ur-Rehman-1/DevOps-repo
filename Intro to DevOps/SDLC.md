@@ -18,8 +18,8 @@ Software Development life cycle (SDLC) is a spiritual model used in project mana
 •	It improves client relations
 •	It decreases project risks
 •	It decreases project management expenses and the overall cost of production
-# Working of SDLC 
-##Planning phase
+## Working of SDLC 
+## Planning phase
 The planning phase encompasses all aspects of project and product management. This typically includes resource allocation, capacity planning, project scheduling, cost estimation, and provisioning.
 During the planning phase, the development team collects input from stakeholders involved in the project; customers, sales, internal and external experts, and developers. This input is synthesized into a detailed definition of the requirements for creating the desired software. The team also determines what resources are required to satisfy the project requirements, and then infers the associated cost.
 Expectations are clearly defined during this stage as well, the team determines not only what is desired in the software, but also what is NOT. The tangible deliverables produced from this phase include project plans, estimated costs, projected schedules, and procurement needs. 
@@ -27,7 +27,7 @@ Expectations are clearly defined during this stage as well, the team determines 
 The coding phase includes system design in an integrated development environment. It also includes static code analysis and code review for multiple types of devices.
 Building Phase
 The building phase takes the code requirements determined earlier and uses those to begin actually building the software.
-Testing Phase
+## Testing Phase
 The phase entails the evaluation of the created software. The testing team evaluates the developed products in order to assess whether they meet the requirements specified in the ‘planning’ phase. 
 Assessments entail the performance of functional testing
 unit testing, code quality testing, integration testing, system testing, security testing, performance testing and acceptance testing, as well as nonfunctional testing. If a defect is identified, developers are notified. Validated (actual) defects are resolved, and a new version of the software is produced.
