@@ -1,4 +1,4 @@
-## What is DevOps culture? 
+# What is DevOps culture? 
 
  *DevOps culture involves closer collaboration and a shared responsibility between development and operations for the products they create and maintain. This helps companies align their people, processes, and tools toward a more unified customer focus.*
  
