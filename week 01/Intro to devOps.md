@@ -32,5 +32,5 @@ DevOps values are sometimes applied to teams other than development. When securi
 2. Continuous Integration (CI): Integrating and testing code changes frequently to ensure that code is working as expected and there are no conflicts. (Jenkins)
 3. Continuous Delivery (CD): Deploying code changes to a testing environment, and automating the delivery process to ensure that new features and updates are released quickly and reliably. (Maven integrated with Jenkins)
 4. Continuous Deployment (CD): Deploying code changes directly to production without any manual intervention, ensuring that code is delivered quickly and consistently. (Ansible, Chef, Puppet, Kubernetes, Docker)
-5. Continuous Monitoring: Monitoring the software in production and identifying issues or bugs as they arise, so that they can be quickly resolved.
+5. Continuous Monitoring: Monitoring the software in production and identifying issues or bugs as they arise, so that they can be quickly resolved
 ________________________________________
