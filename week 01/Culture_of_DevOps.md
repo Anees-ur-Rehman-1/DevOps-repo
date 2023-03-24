@@ -22,5 +22,5 @@ ________________________________________
 
 *A DevOps culture fosters high levels of trust and collaboration, results in higher quality decision making, and even higher levels of job satisfaction, according to the book “Accelerate: Building and Scaling High Performing Technology Organizations.”*
 
-*Embracing a DevOps culture is key to building a high-performing engineering organization without sacrificing employee contentment. It’s a win-win. For an engineer there is nothing like the feeling of frequently and easily deploying and running stable, high-performing software that makes its users happy, and for executives the improved business outcomes are a hit.*
+*Embracing a DevOps culture is key to building a high-performing engineering organization without sacrificing employee contentment. It’s a win-win. For an engineer there is nothing like the feeling of frequently and easily deploying and running stable, high-performing software that makes its users happy, and for executives the improved business outcomes are a hit*
 ________________________________________
