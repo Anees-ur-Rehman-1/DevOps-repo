@@ -113,15 +113,21 @@ On the other hand, XP has a number of disadvantages that have to be considered w
 •	XP works best with collocated teams and customers present in person to conduct face-to-face meetings, limiting its application with distributed teams;
 •	Sometimes customers have neither the desire, time, nor expertise to participate in product development. Considering tight deadlines, it can become a source of stress as either no valuable feedback is provided, or a non-technical representative attempts to manage tech specialists with little or no knowledge on the process;
 •	Some authors also mention overfocusing on code over design, lack of quality assurance, code duplication, and poor results with inexperienced developers.
-Any company can apply the XP principles in its projects; however, it’s important to understand both the good and the bad sides. Read on to find out how XP is different from other methodologies and when applying its techniques would be the best choice.
+            Any company can apply the XP principles in its projects; however, it’s important to understand both the good and the bad sides. Read on to find out how XP is different from other methodologies and when applying its techniques would be the best choice.
 ## When to use XP
 Now that we discussed the XP methodology pros and cons and identified its place among other agile frameworks, we can talk about the cases when it’s applicable. It’s important to make sure a company’s size, structure, and expertise, as well as the staff’s knowledge base allow for applying XP practices. These are the factors to consider.
-### Highly-adaptive development. Some systems don’t have constant functionality features and implies frequent changes. XP was designed to help development teams adapt to fast-changing requirements.
-### Risky projects. Teams applying XP practices are more likely to avoid problems connected with working on a new system, especially when a customer sets strict deadlines for a project. Additionally, a high level of customer engagement reduces the risk of their not accepting the end product.
-### Small teams. XP practices are efficient for teams that don’t exceed 12 people. Managing such groups is usually easier, communication is more efficient, and it takes less time to conduct meetings and brainstorming sessions.
-### Automated testing. Another factor that can influence the choice of XP is the developers’ ability to create and run unit tests, as well as availability of the necessary testing tools.
-### Readiness to accept new culture and knowledge. XP is different from traditional approaches to software development, and the way some of its practices should be implemented might not be obvious. So, it’s important that your organization and team members are ready to embrace change. It’s also worth inviting an experienced coach if you don’t have previous involvement with XP.
-** ### Customer participation ** As XP requires customers, developers and managers to work side-by-side, make sure your client is always available to provide input until a project ends.
+### Highly-adaptive development
+Some systems don’t have constant functionality features and implies frequent changes. XP was designed to help development teams adapt to fast-changing requirements.
+### Risky projects
+Teams applying XP practices are more likely to avoid problems connected with working on a new system, especially when a customer sets strict deadlines for a project. Additionally, a high level of customer engagement reduces the risk of their not accepting the end product.
+### Small teams
+XP practices are efficient for teams that don’t exceed 12 people. Managing such groups is usually easier, communication is more efficient, and it takes less time to conduct meetings and brainstorming sessions.
+### Automated testing
+Another factor that can influence the choice of XP is the developers’ ability to create and run unit tests, as well as availability of the necessary testing tools.
+### Readiness to accept new culture and knowledge
+XP is different from traditional approaches to software development, and the way some of its practices should be implemented might not be obvious. So, it’s important that your organization and team members are ready to embrace change. It’s also worth inviting an experienced coach if you don’t have previous involvement with XP.
+### Customer participation 
+As XP requires customers, developers and managers to work side-by-side, make sure your client is always available to provide input until a project ends.
             Agility principles are becoming increasingly popular as they prove their effectiveness. Even though extreme programming is not the most widespread methodology, it offers a lot of sensible practices that can benefit software development and are worth considering for implementation in your projects.
 
 
