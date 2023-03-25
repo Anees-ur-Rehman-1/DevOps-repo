@@ -1,7 +1,7 @@
 # Taylorism
 Taylorism, also known as scientific management, is a management philosophy that was developed by Frederick Winslow Taylor in the late 19th century. Taylorism aimed to improve productivity and efficiency in manufacturing by breaking down work processes into smaller, simpler tasks that could be easily performed by unskilled workers. The goal of Taylorism was to maximize efficiency and productivity by standardizing and controlling the work process.
 
-The core principles of Taylorism include:
+## The core principles of Taylorism include:
 
 ### Scientific study of work:
 Taylor believed that work could be studied scientifically to identify the most efficient way to perform a task. This involved analyzing each step of the work process to identify unnecessary movements and eliminate them.
