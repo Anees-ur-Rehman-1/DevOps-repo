@@ -29,3 +29,33 @@ can be included in the teams as mentors to help with understanding the XP practi
 ## Values and principles of extreme programming
 In the late 90s, Ken Beck summarized a set of certain values and principles that describe extreme programming and lead to more effective cooperation within the team and, ultimately, higher product quality.
 ![XP values](https://user-images.githubusercontent.com/125833255/227708913-05855561-a4e9-43d1-b8dc-24efb14c66fd.png)
+
+## Values of extreme programming
+XP has simple rules that are based on 5 values to guide the teamwork:
+### Communication 
+Everyone on a team works jointly at every stage of the project.
+### Simplicity 
+Developers strive to write simple code bringing more value to a product, as it saves time and effort.
+### Feedbacik 
+Team members deliver software frequently, get feedback about it, and improve a product according to the new requirements.
+### Respect 
+Every person assigned to a project contributes to a common goal.
+### Courage 
+Programmers objectively evaluate their own results without making excuses and are always ready to respond to changes.
+These values represent a specific mindset of motivated team players who do their best on the way to achieving a common goal. XP principles derive from these values and reflect them in more concrete ways.
+## Principles of extreme programming
+Most researchers denote 5 XP principles as:
+### Rapid feedback
+Team members understand the given feedback and react to it right away.
+### Assumed simplicity
+Developers need to focus on the job that is important at the moment and follow YAGNI (You Ain’t Gonna Need It) and DRY (Don’t Repeat Yourself) principles.
+### Incremental changes
+Small changes made to a product step by step work better than big ones made at once.
+### Embracing change
+If a client thinks a product needs to be changed, programmers should support this decision and plan how to implement new requirements.
+### Quality work
+A team that works well, makes a valuable product and feels proud of it.
+Having discussed the main values and principles of XP, let’s take a closer look at the practices inherent in this framework.
+## Extreme programming practices
+The practices of XP are a set of specific rules and methods that distinguishes it from other methodologies. When used in conjunction, they reinforce each other, help mitigate the risks of the development process, and lead to the expected high-quality result. XP suggests using 12 practices while developing software which can be clustered into four groups.
+
