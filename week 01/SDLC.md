@@ -5,7 +5,7 @@
 ## Definition
 *Software Development life cycle (SDLC) is a spiritual model used in project management that defines the stages include in an information system development project, from an initial feasibility study to the maintenance of the completed application.*
 
-![software-development-life-cycle-802x1024](https://user-images.githubusercontent.com/125833255/226198954-bd8df596-ad71-472a-94ca-5592cce11e87.jpg)
+![SDLC](https://user-images.githubusercontent.com/125833255/227736023-cf8f1ad6-30f2-450c-b6aa-030a2442baad.jpg)
 
  
 
