@@ -28,3 +28,4 @@ link customers and developers. It’s not a required role and can be performed b
 can be included in the teams as mentors to help with understanding the XP practices. It’s usually an outside assistant or external consultant who is not involved in the development process, but has used XP before and so can help avoid mistakes.
 ## Values and principles of extreme programming
 In the late 90s, Ken Beck summarized a set of certain values and principles that describe extreme programming and lead to more effective cooperation within the team and, ultimately, higher product quality.
+![XP values](https://user-images.githubusercontent.com/125833255/227708913-05855561-a4e9-43d1-b8dc-24efb14c66fd.png)
