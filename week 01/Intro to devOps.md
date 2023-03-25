@@ -18,6 +18,7 @@ DevOps values are sometimes applied to teams other than development. When securi
 
 Because of the continuous nature of DevOps, practitioners use the infinity loop to show how the phases of the DevOps lifecycle relate to each other. Despite appearing to flow sequentially, the loop symbolizes the need for constant collaboration and iterative improvement throughout the entire lifecycle.
 
+![SDLC lifecycle](https://user-images.githubusercontent.com/125833255/227735969-b007a3e2-4449-4569-b1e3-ad2cd7943b41.png)
  
 The DevOps lifecycle consists of eight phases representing the processes, capabilities, and tools needed for development (on the left side of the loop) and operations (on the right side of the loop). Throughout each phase, teams collaborate and communicate to maintain alignment, velocity, and quality.
 ## Eight Phases
