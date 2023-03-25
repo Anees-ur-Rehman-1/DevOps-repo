@@ -92,6 +92,7 @@ XP projects require developers to work fast, be efficient, and sustain the produ
 ## Advantages and disadvantages of XP
 XP practices have been debated upon for decades, as its approach and methods are rather controversial in a number of aspects and can’t be applied in just any project. Here, we’ll try to define the pros and cons of XP methodology.
 
+![pros and cons](https://user-images.githubusercontent.com/125833255/227709981-f235e469-9cf3-4fd7-bbda-6d2a7c82491a.png)
 
 ## Extreme programming advantages
 So, the XP framework can be beneficial and help reduce development time and costs for the following reasons:
