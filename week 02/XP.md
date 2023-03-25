@@ -14,3 +14,5 @@ is the phase during which the actual code is created by implementing specific XP
 is the core of extreme programming. It is the regular activity that involves both unit tests (automated testing to determine if the developed feature works properly) and acceptance tests (customer testing to verify that the overall system is created according to the initial requirements).
 ### Listening 
 is all about constant communication and feedback. The customers and project managers are involved to describe the business logic and value that is expected.
+
+/image/XP.png
