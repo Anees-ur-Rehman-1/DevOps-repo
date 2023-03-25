@@ -1,6 +1,7 @@
 # Test-Driven Development (TDD)
 Test-Driven Development (TDD) is a software development practice that involves writing automated tests before writing the actual code. TDD is an iterative and incremental process that allows developers to create high-quality code with fewer errors and less technical debt.
 
+![tdd](https://user-images.githubusercontent.com/125833255/227724402-374d8027-7ecb-4c41-ae1a-a58975071abb.jpg)
 
 ## TDD has three main phases:
 ### Red phase: 
