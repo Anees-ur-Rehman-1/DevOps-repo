@@ -8,7 +8,7 @@
 |04.|Its main focus is on system requirements.|Its main focus is on unit test.|
 |05.|In BDD the starting point is a scenario.|In TDD the starting point is a test case.|
 |06.|It is a team methodology.|It is a development practice.|
-|07.|Here language used to write behavior/scenarios is simple English language.|Here language is used is similar to the one used for feature development like programming |
-|08.|
-|09.|
-|10.|
+|07.|Here language used to write behavior/scenarios is simple English language.|Here language is used is similar to the one used for feature development like programming language.|
+|08.|In BDD collaboration is required between all the stakeholders.|In TDD collaboration is required only between the developers.|
+|09.|It is a good approach for project development which are driven by user actions.|It is a good approach for projects which involve API and third-party tools.|
+|10.|Some of the tools used are  Cucumber, Dave, JBehave, Spec Flow,  Concordian, BeanSpec etc.|Some of the tools used are  JBehave, JDave, Cucumber, Spec Flow, BeanSpec, FitNesse etc.|
