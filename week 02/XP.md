@@ -15,4 +15,4 @@ is the core of extreme programming. It is the regular activity that involves bot
 ### Listening 
 is all about constant communication and feedback. The customers and project managers are involved to describe the business logic and value that is expected.
 
-/image/XP.png
+![XP](https://user-images.githubusercontent.com/125833255/227708798-20d12631-faa2-4a30-a62e-fc50b5f59b05.png)
