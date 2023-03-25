@@ -23,7 +23,6 @@ The benefits of the MVP approach include:
 ### Iterative development: 
   The feedback gathered from early customers is used to improve and iterate on the product, ensuring that it meets the needs of the target audience.
 
-       In summary, the MVP is a product development strategy that involves developing a product with the minimum set of features necessary to satisfy early customers and validate assumptions. The approach is used to reduce the risk of developing a product that nobody wants, and to help teams stay focused on the needs of the customer. The MVP approach allows for faster time to market, customer-focused development, and iterative development based on customer feedback
-
+             In summary, the MVP is a product development strategy that involves developing a product with the minimum set of features necessary to satisfy early customers and validate assumptions. The approach is used to reduce the risk of developing a product that nobody wants, and to help teams stay focused on the needs of the customer. The MVP approach allows for faster time to market, customer-focused development, and iterative development based on customer feedback.
 
 
