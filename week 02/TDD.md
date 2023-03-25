@@ -27,6 +27,6 @@ TDD provides immediate feedback on the code's correctness. Developers can quickl
 TDD encourages collaboration between developers, testers, and other stakeholders. It provides a shared understanding of the requirements and promotes a culture of continuous improvement.
 
 ### Reduced technical debt 
-         TDD promotes clean code practices and helps to reduce technical debt. By refactoring the code regularly, developers can ensure that it is easy to maintain and extend.
+TDD promotes clean code practices and helps to reduce technical debt. By refactoring the code regularly, developers can ensure that it is easy to maintain and extend.
 
-Some common tools and frameworks for TDD include JUnit, NUnit, PHPUnit, and Jasmine. TDD is compatible with various programming languages, including Java, C#, Python, and JavaScript
+Some common tools and frameworks for TDD include JUnit, NUnit, PHPUnit, and Jasmine. TDD is compatible with various programming languages, including Java, C#, Python, and JavaScript.
