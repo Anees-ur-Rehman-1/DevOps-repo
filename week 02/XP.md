@@ -121,7 +121,7 @@ Now that we discussed the XP methodology pros and cons and identified its place 
 ### Small teams. XP practices are efficient for teams that don’t exceed 12 people. Managing such groups is usually easier, communication is more efficient, and it takes less time to conduct meetings and brainstorming sessions.
 ### Automated testing. Another factor that can influence the choice of XP is the developers’ ability to create and run unit tests, as well as availability of the necessary testing tools.
 ### Readiness to accept new culture and knowledge. XP is different from traditional approaches to software development, and the way some of its practices should be implemented might not be obvious. So, it’s important that your organization and team members are ready to embrace change. It’s also worth inviting an experienced coach if you don’t have previous involvement with XP.
-**### Customer participation ** As XP requires customers, developers and managers to work side-by-side, make sure your client is always available to provide input until a project ends.
+** ### Customer participation ** As XP requires customers, developers and managers to work side-by-side, make sure your client is always available to provide input until a project ends.
             Agility principles are becoming increasingly popular as they prove their effectiveness. Even though extreme programming is not the most widespread methodology, it offers a lot of sensible practices that can benefit software development and are worth considering for implementation in your projects.
 
 
