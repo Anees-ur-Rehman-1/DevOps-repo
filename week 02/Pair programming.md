@@ -23,4 +23,4 @@ According to one survey, 96% of developers who practice pair programming at work
 Paired programming offers a great opportunity for team members to share and exchange their knowledge and experience at coding as they get to learn from their colleagues. It allows developers to receive immediate, face-to-face, and practical teaching. This is far more efficient than online tutorials and faster than searching the Internet for information. 
 
 More senior programmers may also teach developers some of those highly valuable but non-written best practices and methodologies. Pair programming serves as a fantastic method for programmers to form mentorship ties.
-Moreover, pair programming boosts the interpersonal skills of your employees. Working together on a single project teaches your team the importance of communication and collaboration.
+Moreover, pair programming boosts the interpersonal skills of your employees. Working together on a single project teaches your team the importance of communication and collaboration
