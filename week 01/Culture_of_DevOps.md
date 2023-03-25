@@ -14,10 +14,10 @@ For example, a typical development workflow might require engagement from severa
 
 A DevOps team culture values fast feedback that can help with continuous improvement of a unified development and operations team. In an environment where the development and operations teams are in isolated silos, feedback about the performance and stability of application software in production is often slow to make it back to the development team, if it makes it at all. DevOps ensures that developers get the fast feedback they need to rapidly iterate and improve on application code by requiring collaboration between operations folks in designing and implementing application monitoring and reporting strategies. For example, any sufficiently capable continuous integration tool will enable automated build and testing of new code pushes and provide the developer with immediate feedback on the quality of their code
 
-Automation is essential to DevOps culture, since it allows great collaboration and frees up resources. Automating and integrating the processes between software development and IT teams helps them to build, test, and release software faster and more reliably.
-________________________________________
+Automation is essential to DevOps culture, since it allows great collaboration and frees up resources. Automating and integrating the processes between software development and IT teams helps them to build, test, and release software faster and more reliably
+
 # What are the benefits of DevOps culture? 
-________________________________________
+
 The most obvious and impactful benefit of embracing a DevOps culture is streamlined, frequent, and high-quality software releases. This not only increases company performance, but also employee satisfaction.
 
 A DevOps culture fosters high levels of trust and collaboration, results in higher quality decision making, and even higher levels of job satisfaction, according to the book “Accelerate: Building and Scaling High Performing Technology Organizations.”
