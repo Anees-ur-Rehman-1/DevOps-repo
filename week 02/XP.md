@@ -1,4 +1,4 @@
-# XP
+# XP ( Extreme Programming Framework )
 ## Definition
 Extreme Programming (XP) is a software development methodology that emphasizes iterative and incremental development, frequent releases, customer involvement, and a focus on quality code. XP is one of the agile methodologies and is designed to help teams quickly respond to changing requirements.
 XP is a set of engineering practices. Developers have to go beyond their capabilities while performing these practices. That’s where the “extreme” in the framework’s title comes from. To get a better understanding of these practices, we’ll start with describing XP’s lifecycle and the roles engaged in the process. 
