@@ -59,3 +59,17 @@ Having discussed the main values and principles of XP, let’s take a closer loo
 ## Extreme programming practices
 The practices of XP are a set of specific rules and methods that distinguishes it from other methodologies. When used in conjunction, they reinforce each other, help mitigate the risks of the development process, and lead to the expected high-quality result. XP suggests using 12 practices while developing software which can be clustered into four groups.
 
+![practices](https://user-images.githubusercontent.com/125833255/227709187-419a243a-3887-4498-86c6-ff03d0456a41.png)
+
+## Test-Driven Development
+Is it possible to write a clear code quickly? The answer is yes, according to XP practitioners. The quality of software derives from short development cycles that, in turn, allow for receiving frequent feedback. And valuable feedback comes from good testing. XP teams practice test-driven development technique (TDD) that entails writing an automated unit test before the code itself. According to this approach, every piece of code must pass the test to be released. So, software engineers thereby focus on writing code that can accomplish the needed function. That’s the way TDD allows programmers to use immediate feedback to produce reliable software. You can learn more about improving software testing in our dedicated article.
+### The Planning Game
+This is a meeting that occurs at the beginning of an iteration cycle. The development team and the customer get together to discuss and approve a product’s features. At the end of the planning game, developers plan for the upcoming iteration and release, assigning tasks for each of them.
+### On-site Customer
+As we already mentioned, according to XP, the end customer should fully participate in development. The customer should be present all the time to answer team questions, set priorities, and resolve disputes if necessary.
+### Pair Programming
+This practice requires two programmers to work jointly on the same code. While the first developer focuses on writing, the other one reviews code, suggests improvements, and fixes mistakes along the way. Such teamwork results in high-quality software and faster knowledge sharing but takes about 15 percent more time. In this regard, it’s more reasonable trying pair programming for long-term projects.
+### Code Refactoring
+To deliver business value with well-designed software in every short iteration, XP teams also use refactoring. The goal of this technique is to continuously improve code. Refactoring is about removing redundancy, eliminating unnecessary functions, increasing code coherency, and at the same time decoupling elements. Keep your code clean and simple, so you can easily understand and modify it when required would be the advice of any XP team member.
+
+
