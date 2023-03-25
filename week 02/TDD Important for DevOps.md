@@ -1,6 +1,7 @@
 # TDD Important for DevOps
 Test-driven development (TDD) is an essential practice for DevOps because it helps ensure the quality and reliability of the software being developed. DevOps is a methodology that emphasizes the integration of development and operations teams, and TDD is a software development practice that emphasizes the creation of automated tests before the code is written
 
+![TDD](https://user-images.githubusercontent.com/125833255/227734237-96254c1d-5e6e-447f-993c-c623137c78e5.png)
 
 Here are some specific reasons why TDD is important for DevOps:
 ### Faster Feedback: 
