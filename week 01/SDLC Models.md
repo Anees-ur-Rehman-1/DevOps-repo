@@ -10,6 +10,7 @@ There are different software development life cycle models specify and design, w
 Waterfall represents the oldest, simplest, and most structured methodology. Each phase depends on the outcome of the previous phase, and all phases run sequentially. This model provides discipline and gives a tangible output at the end of each phase. However, this model doesn’t work well when flexibility is a requirement. There is little room for change once a phase is deemed complete, as changes can affect the cost, delivery time, and quality of the software.The biggest drawback of this model is that small details left incomplete can hold up the entire process.
 Winston Royce introduced the Waterfall Model in 1970.This model has five phases: Requirements analysis and specification, design, implementation, and unit testing, integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap. The developer must complete every phase before the next phase begins. This model is named "Waterfall Model", because its diagrammatic representation resembles a cascade of waterfalls.
 
+![waterfall model](https://user-images.githubusercontent.com/125833255/227784528-1c0cbfc5-a937-446d-8921-0d911998fa0f.png)
 
 
 1.	Requirements analysis and specification phase 
