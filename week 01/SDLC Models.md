@@ -1,10 +1,12 @@
-SDLC Models / Methodologies________________________________________
+# SDLC Models / Methodologies
 There are different software development life cycle models specify and design, which are followed during the software development phase. These models are also called "Software Development Process Models." Each process model follows a series of phase unique to its type to ensure success in the step of software development.
 
-Here, are some important phases of SDLC life cycle:
+### Here, are some important phases of SDLC life cycle:
+
+![SDLC models](https://user-images.githubusercontent.com/125833255/227784410-37da8e8a-3479-4213-ab03-0de1cd275ced.png)
 
 
-Waterfall Model 
+## Waterfall Model 
 Waterfall represents the oldest, simplest, and most structured methodology. Each phase depends on the outcome of the previous phase, and all phases run sequentially. This model provides discipline and gives a tangible output at the end of each phase. However, this model doesn’t work well when flexibility is a requirement. There is little room for change once a phase is deemed complete, as changes can affect the cost, delivery time, and quality of the software.The biggest drawback of this model is that small details left incomplete can hold up the entire process.
 Winston Royce introduced the Waterfall Model in 1970.This model has five phases: Requirements analysis and specification, design, implementation, and unit testing, integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap. The developer must complete every phase before the next phase begins. This model is named "Waterfall Model", because its diagrammatic representation resembles a cascade of waterfalls.
 
