@@ -91,7 +91,7 @@ The Spiral Model is a software development process model that combines elements 
 The spiral model, initially proposed by Boehm, is an evolutionary software process model that couples the iterative feature of prototyping with the controlled and systematic aspects of the linear sequential model. It implements the potential for rapid development of new versions of the software. Using the spiral model, the software is developed in a series of incremental releases. During the early iterations, the additional release may be a paper model or prototype. During later iterations, more and more complete versions of the engineered system are produced.
 The Spiral Model is shown in fig:
 
-
+![spiral model](https://user-images.githubusercontent.com/125833255/227794100-f3752d12-31b5-43f2-9f68-f1d6ef7249c6.png)
 
 
 Each cycle in the spiral is divided into four parts:
