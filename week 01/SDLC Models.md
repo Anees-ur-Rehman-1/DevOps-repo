@@ -43,7 +43,7 @@ Disadvantages of Waterfall model
 •	This model cannot accept the changes in requirements during development.
 •	It becomes tough to go back to the phase. For example, if the application has now shifted to the coding phase, and there is a change in requirement, it becomes tough to go back and change it.
 •	Since the testing done at a later stage, it does not allow identifying the challenges and risks in the earlier phase, so the risk reduction strategy is difficult to prepare.
-RAD Model (Rapid Application Development)
+## RAD Model (Rapid Application Development)
 RAD is a linear sequential software development process model that emphasizes a concise development cycle using an element based construction approach. If the requirements are well understood and described, and the project scope is a constraint, the RAD process enables a development team to create a fully functional system within a concise time period.
 RAD (Rapid Application Development) is a concept that products can be developed faster and of higher quality through:
 •	Gathering requirements using workshops or focus groups
@@ -52,9 +52,10 @@ RAD (Rapid Application Development) is a concept that products can be developed 
 •	A rigidly paced schedule that refers design improvements to the next product version
 •	Less formality in reviews and other team communication
 
+![Rad model](https://user-images.githubusercontent.com/125833255/227784584-07bd05e5-8f75-4763-9808-bf4a336b3505.png)
 
 
-The various phases of RAD are as follows:
+### The various phases of RAD are as follows:
 1. Business Modelling  	
 The information flow among business functions is defined by answering questions like what data drives the business process, what data is generated, who generates it, where does the information go, who process it and so on.
 
