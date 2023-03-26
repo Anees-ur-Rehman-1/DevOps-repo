@@ -278,8 +278,7 @@ The Iterative Model is a software development methodology that involves developi
 In this Model, you can start with some of the software specifications and develop the first version of the software. After the first version if there is a need to change the software, then a new version of the software is created with a new iteration. Every release of the Iterative Model finishes in an exact and fixed period that is called iteration.
 The Iterative Model allows the accessing earlier phases, in which the variations made respectively. The final output of the project renewed at the end of the Software Development Life Cycle (SDLC) process.
 
-
-
+![Itrative model](https://user-images.githubusercontent.com/125833255/227794381-fea6fa0a-b7f2-4bde-aaf1-62e4502f2745.png)
 
 The various phases of Iterative model are as follows:
 1. Requirement gathering & analysis: In this phase, requirements are gathered from customers and check by an analyst whether requirements will fulfill or not. Analyst checks that need will achieve within budget or not. After all of this, the software team skips to the next phase.
