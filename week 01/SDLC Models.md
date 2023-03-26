@@ -160,7 +160,7 @@ Incremental Model
 An incremental model is a software development model where a software product is developed through a series of iterations, each building on the previous one. In other words, an incremental model breaks down the development process into smaller, more manageable chunks that can be completed and delivered one at a time.
 Incremental Model is a process of software development where requirements divided into multiple standalone modules of the software development cycle. In this model, each module goes through the requirements, design, implementation and testing phases. Every subsequent release of the module adds function to the previous release. The process continues until the complete system achieved.
 
-
+![Incremental model](https://user-images.githubusercontent.com/125833255/227794225-ad0eff1f-ef86-4f30-9de9-79cb613b3dfe.png)
 
 
 The various phases of incremental model are as follows:
