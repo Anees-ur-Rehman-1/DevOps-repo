@@ -123,7 +123,7 @@ Disadvantages
 V-Shaped Model
 V-Model also referred to as the Verification and Validation Model. In this, each phase of SDLC must complete before the next phase starts. It follows a sequential design process same as the waterfall model. Testing of the device is planned in parallel with a corresponding stage of development.
 
-
+![V shape model](https://user-images.githubusercontent.com/125833255/227794166-e0dd2e39-d94b-4287-894b-ba4803bed2c6.png)
 
 
 Verification: It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
