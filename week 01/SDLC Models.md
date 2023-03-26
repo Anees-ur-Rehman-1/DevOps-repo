@@ -194,8 +194,7 @@ The Agile model is a software development methodology that emphasizes flexibilit
 The meaning of Agile is swift or versatile."Agile process model" refers to a software development approach based on iterative development. Agile methods break tasks into smaller iterations, or parts do not directly involve long term planning. The project scope and requirements are laid down at the beginning of the development process. Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance.
 Each iteration is considered as a short time "frame" in the Agile process model, which typically lasts from one to four weeks. The division of the entire project into smaller parts helps to minimize the project risk and to reduce the overall project delivery time requirements. Each iteration involves a team working through a full software development life cycle including planning, requirements analysis, design, coding, and testing before a working product is demonstrated to the client.
 
-
-
+![Agile model](https://user-images.githubusercontent.com/125833255/227794299-785d3df6-65b3-4cd7-bc09-c1002ebe96b9.png)
 
 Phases of Agile Model:
 Following are the phases in the agile model are as follows:
