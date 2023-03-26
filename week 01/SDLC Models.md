@@ -368,7 +368,7 @@ Evolutionary Process Model
 Evolutionary process model resembles the iterative enhancement model. The same phases are defined for the waterfall model occurs here in a cyclical fashion. This model differs from the iterative enhancement model in the sense that this does not require a useful product at the end of each cycle. In evolutionary development, requirements are implemented by category rather than by priority.
 For example, in a simple database application, one cycle might implement the graphical user Interface (GUI), another file manipulation, another queries and another updates. All four cycles must complete before there is a working product available. GUI allows the users to interact with the system, file manipulation allow the data to be saved and retrieved, queries allow user to get out of the system, and updates allows users to put data into the system.
 
-
+![Evolutionary model](https://user-images.githubusercontent.com/125833255/227794622-9ba15d36-876c-4305-8a0d-982be77b2ba7.png)
 
 Benefits of Evolutionary Process Model
 1.	Use of EVO brings a significant reduction in risk for software projects.
