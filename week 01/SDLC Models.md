@@ -334,8 +334,7 @@ Prototype Model
 The Prototype Model is a software development methodology that involves building a working model of the software product to be developed. The prototype model is an iterative and incremental approach where a working version of the software is developed quickly to provide a visual representation of the final product.
 The prototype model requires that before carrying out the development of actual software, a working prototype of the system should be built. A prototype is a toy implementation of the system. A prototype usually turns out to be a very crude version of the actual system, possible exhibiting limited functional capabilities, low reliability, and inefficient performance as compared to actual software. In many instances, the client only has a general view of what is expected from the software product. In such a scenario where there is an absence of detailed information regarding the input to the system, the processing needs, and the output requirement, the prototyping model may be employed.
 
-
-
+![prototype model](https://user-images.githubusercontent.com/125833255/227794564-892a781c-50cb-4d21-a745-519cca6f9b70.png)
 
 Steps of Prototype Model
 1.	Requirement Gathering and Analyst
