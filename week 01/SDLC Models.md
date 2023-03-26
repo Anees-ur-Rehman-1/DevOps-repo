@@ -312,8 +312,7 @@ The Big Bang model is a software development model that involves developing and 
 In this model, developers do not follow any specific process. Development begins with the necessary funds and efforts in the form of inputs. And the result may or may not be as per the customer's requirement, because in this model, even the customer requirements are not defined.
 This model is ideal for small projects like academic projects or practical projects. One or two developers can work together on this model.
 
-
-
+![big bang model](https://user-images.githubusercontent.com/125833255/227794468-2550497f-ec69-4f7a-a8e4-0d8f323cb139.png)
 
 When to use Big Bang Model?
 As we discussed above, this model is required when this project is small like an academic project or a practical project. This method is also used when the size of the developer team is small and when requirements are not defined, and the release date is not confirmed or given by the customer.
