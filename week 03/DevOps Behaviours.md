@@ -55,22 +55,22 @@ Continuous Learning is a key DevOps behavior that involves continually seeking o
 
 
 ## Some other Examples of DevOps behaviors include:
-•	Multidisciplinary: 
+#### • Multidisciplinary:
 “Team members actively pick up each other’s tasks when they see a team member is too busy or unavailable”
 
-•	Transparency:
+#### •	Transparency:
 “The team publishes real-time progress reports on the floor monitors”
 
-•	Ownership: 
+#### •	Ownership: 
 “The Product Owner drives the demos and adequately informs all his/her stakeholders regarding progress and deliverables”
 
-•	Prioritization: 
+#### •	Prioritization: 
 “The PO and TMs jointly discuss at least once per sprint the prioritization of the work on both functional and non-functional work items”
 
-•	Improve:
+#### •	Improve:
 “Every severe incident is followed by a blameless postmortem, where everyone involved shares ideas & opportunities for improvement”
 
-•	Fail safe:
+#### •	Fail safe:
 “All managers openly reward the identification, prevention ánd resolution of errors.”
 
 
