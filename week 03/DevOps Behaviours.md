@@ -11,7 +11,7 @@ Development, operations, and other teams work together to achieve common goals.
 ### . Joint planning and decision-making: 
 Teams collaborate to plan and make decisions about the software development process, such as which tools to use and how to optimize workflows.
 
-. ### Knowledge sharing: 
+3. Knowledge sharing: 
 Teams share information and best practices to improve the overall performance of the software delivery process.
 
 ## Automation: 
