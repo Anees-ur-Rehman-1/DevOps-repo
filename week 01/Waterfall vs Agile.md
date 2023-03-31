@@ -1,11 +1,11 @@
 # Difference between Waterfall and Agile model
 ## Agile vs. Waterfall: At a Glance
 ### Agile Methodology
-•	### Approach:
+### Approach:
 Frequent stakeholder interaction
-•	### Flexibility:
+### Flexibility:
 High
-•	*### Requires:
+### Requires:
 Team initiative and short-term deadlines
 
 Agile methodology was developed as a response to Waterfall’s more rigid structure. As a result, it’s a much more fluid form of project management. A software development project can take years to complete, and technology can change significantly during that time. Agile was developed as a flexible method that welcomes incorporating changes of direction even late in the process, as well as accounting for stakeholders’ feedback throughout the process.
