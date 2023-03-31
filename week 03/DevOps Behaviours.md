@@ -28,13 +28,13 @@ The use of tools to automate testing, such as unit testing, integration testing,
 ## Continuous Integration and Continuous Delivery (CI/CD): 
 CI/CD is a set of practices that involve integrating code changes into a shared repository and automating the deployment of those changes to production. Some examples of CI/CD in DevOps include:
 
-## Automated testing and deployment:
+#### 1. Automated testing and deployment:
 Developers can use automated tools to test and deploy code changes, reducing the risk of errors and improving the speed of the software delivery process.
 
-## Version control:
+#### 2. Version control:
 Developers use version control systems to manage code changes, making it easier to collaborate and manage code changes over time.
 
-## Continuous monitoring and feedback:
+#### 3. Continuous monitoring and feedback:
 Teams can use automated monitoring tools to track the performance of software in production, providing continuous feedback that can help them improve the software delivery process.
 
 ## Monitoring and Feedback:
