@@ -1,7 +1,7 @@
 # Difference between Waterfall and Agile model
 ## Agile vs. Waterfall: At a Glance
 ### Agile Methodology
-** Approach:**
+** Approach **
 Frequent stakeholder interaction
 ### Flexibility:
 High
