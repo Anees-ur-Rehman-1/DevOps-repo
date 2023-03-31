@@ -40,13 +40,13 @@ Teams can use automated monitoring tools to track the performance of software in
 ## Monitoring and Feedback:
 DevOps relies on monitoring and feedback to ensure that software is performing as expected and to identify opportunities for improvement. Some examples of monitoring and feedback in DevOps include:
 
-## Performance monitoring: 
+####  1. Performance monitoring: 
 Teams can use tools to monitor the performance of applications and infrastructure, identifying issues before they impact users.
 
-## User feedback:
+####  2. User feedback:
 Teams can gather feedback from users to identify opportunities to improve the user experience.
 
-## Continuous improvement:
+####  3. Continuous improvement:
 Teams use feedback and data to continually improve the software delivery process, optimizing workflows and increasing efficiency over time.
 
 ## Continuous Learning:
@@ -54,7 +54,7 @@ Continuous Learning is a key DevOps behavior that involves continually seeking o
 
 
 
-Some other Examples of DevOps behaviors include:
+## Some other Examples of DevOps behaviors include:
 •	Multidisciplinary: 
 “Team members actively pick up each other’s tasks when they see a team member is too busy or unavailable”
 
