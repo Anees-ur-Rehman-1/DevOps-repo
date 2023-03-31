@@ -1,5 +1,4 @@
-# Difference between Waterfall and Agile model
-## Agile vs. Waterfall: At a Glance
+#  Waterfall Vs Agile model
 
 ## Agile Methodology
 **Approach** : Frequent stakeholder interaction
@@ -21,7 +20,9 @@ In Agile, the team will work on phases of the project concurrently, often with s
 
 ## Waterfall Methodology
 **Approach** : Hands-off; goals and outcome established from the beginning
+
 **Flexibility** : Low
+
 **Requires** : Completing deliverables to progress to the next phase
 
 Waterfall methodology is a linear form of project management ideal for projects where the end result is clearly established from the beginning of the project. The expectations for the project and the deliverables of each stage are clear and are required in order to progress to the next phase.
