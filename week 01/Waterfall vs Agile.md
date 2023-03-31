@@ -14,4 +14,4 @@ In Agile, the team will work on phases of the project concurrently, often with s
 
 |Pros|Cons|
 |:--------------------------|:----------------------|
-|Short-term deadlines encourage productivity and efficiency|Because team members are working on multiple phases at a time, there is potential for overlap or unnecessary effort spent on later stages if an early phase needs to be modified|
+|Short-term deadlines encourage productivity and efficiency              |Because team members are working on multiple phases at a time, there is potential for overlap or unnecessary effort spent on later stages if an early phase needs to be modified|
