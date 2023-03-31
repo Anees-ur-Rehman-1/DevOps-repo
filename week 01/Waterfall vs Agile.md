@@ -45,6 +45,7 @@ Waterfall methodology is a linear form of project management ideal for projects 
 
 
 Waterfall is a linear project progression, so it’s best suited for projects with a defined end goal. If a project owner has a clear and specific vision of an app, for example, and is confident it will not change throughout the project development, Waterfall methodologies could be a good system to follow.
+
 Meanwhile, Agile leaves a lot of room to adapt and change course as the project develops. It’s better suited for projects where the outcome may be dependent on more research or testing.
 
 The budget for projects using Waterfall methodologies tends to be less flexible because the project is mapped out from the beginning. With Agile, there is more room to change direction as the project develops, so the budget is also subject to change. Similarly, the timeline with Waterfall is set from the start, while it’s more flexible with Agile and dependent on how the project develops.
@@ -58,6 +59,8 @@ When choosing between Agile and Waterfall, consider how involved the project own
 
 ## Bottom Line
 To summarize, Agile and Waterfall are two different management methodologies best suited for different types of projects. If you clearly understand the project outcomes from the beginning, Waterfall may be the best fit. Waterfall is a better method when a project must meet strict regulations as it requires deliverables for each phase before proceeding to the next one.
+
 Alternatively, Agile is better suited for teams that plan on moving fast, experimenting with direction and don’t know how the final project will look before they start. Agile is flexible and requires a collaborative and self-motivated team, plus frequent check-ins with business owners and stakeholders about the progress.
+
 Finally, in March of 2011, Cameron Haight of Gartner presented his predictions for the trajectory of DevOps over the next few years. His positive outlook on its impact on the industry lead to more attention for the DevOps movement, and it wasn’t long before enterprises of all sizes were beginning to adopt these new practices. DevOps had officially caught on as the next big thing since Agile for the IT industry.
 
