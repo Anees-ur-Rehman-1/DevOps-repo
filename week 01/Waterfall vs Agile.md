@@ -33,3 +33,8 @@ Waterfall methodology is a linear form of project management ideal for projects 
 |The team establishes project requirements early on, which can save time|You might not realize an issue with a phase until you have already progressed to the next one. This would mean going back through each phase and checking where the mistake or error occurred, which can be a timely process.|
 |Each phase of the project requires a deliverable to progress to the next phase, making the workflow more structured|The Waterfall methodology requires that you outline the project from start to finish before you begin. This doesn't allow for a lot of flexibility or change. Additionally, it can become problematic if the stakeholders disagree on the project’s vision and don’t find out until it is executed or in a later phase.|
 
+
+# Agile and Waterfall Comparison Chart
+
+||Waterfall|Agile |
+|:----|:--------------------------|:----------------------|
