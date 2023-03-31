@@ -5,49 +5,49 @@ DevOps is a software development approach that emphasizes collaboration, integra
 ## Collaboration:
 DevOps requires close collaboration between developers, operations teams, and other stakeholders to ensure smooth and efficient software delivery. Some examples of collaboration in DevOps include:
 
-####  1.Cross-functional teams:
+####  •  Cross-functional teams:
 Development, operations, and other teams work together to achieve common goals.
 
-####  2. Joint planning and decision-making: 
+####  •  Joint planning and decision-making: 
 Teams collaborate to plan and make decisions about the software development process, such as which tools to use and how to optimize workflows.
 
-####  3. Knowledge sharing: 
+####  •  Knowledge sharing: 
 Teams share information and best practices to improve the overall performance of the software delivery process.
 
 ## Automation: 
 DevOps relies heavily on automation to streamline the software delivery process and minimize the risk of errors. Some examples of automation in DevOps include:
 
-####  1. Continuous Integration and Continuous Delivery (CI/CD) pipelines:
+####  •  Continuous Integration and Continuous Delivery (CI/CD) pipelines:
 Automated processes that allow developers to build, test, and deploy code changes to production quickly and reliably.
 
-####  2.Infrastructure as Code (IaC): 
+####  •  Infrastructure as Code (IaC): 
 The use of automated scripts to provision and configure infrastructure, making it easier to manage and maintain infrastructure at scale.
 
-####  3. Automated testing: 
+####  •  Automated testing: 
 The use of tools to automate testing, such as unit testing, integration testing, and end-to-end testing.
 
 ## Continuous Integration and Continuous Delivery (CI/CD): 
 CI/CD is a set of practices that involve integrating code changes into a shared repository and automating the deployment of those changes to production. Some examples of CI/CD in DevOps include:
 
-#### 1. Automated testing and deployment:
+#### •  Automated testing and deployment:
 Developers can use automated tools to test and deploy code changes, reducing the risk of errors and improving the speed of the software delivery process.
 
-#### 2. Version control:
+#### •  Version control:
 Developers use version control systems to manage code changes, making it easier to collaborate and manage code changes over time.
 
-#### 3. Continuous monitoring and feedback:
+#### •  Continuous monitoring and feedback:
 Teams can use automated monitoring tools to track the performance of software in production, providing continuous feedback that can help them improve the software delivery process.
 
 ## Monitoring and Feedback:
 DevOps relies on monitoring and feedback to ensure that software is performing as expected and to identify opportunities for improvement. Some examples of monitoring and feedback in DevOps include:
 
-####  1. Performance monitoring: 
+####  •  Performance monitoring: 
 Teams can use tools to monitor the performance of applications and infrastructure, identifying issues before they impact users.
 
-####  2. User feedback:
+####  •  User feedback:
 Teams can gather feedback from users to identify opportunities to improve the user experience.
 
-####  3. Continuous improvement:
+####  •  Continuous improvement:
 Teams use feedback and data to continually improve the software delivery process, optimizing workflows and increasing efficiency over time.
 
 ## Continuous Learning:
@@ -59,7 +59,7 @@ Continuous Learning is a key DevOps behavior that involves continually seeking o
 #### • Multidisciplinary:
 “Team members actively pick up each other’s tasks when they see a team member is too busy or unavailable”
 
-#### •	Transparency:
+#### •  Transparency:
 “The team publishes real-time progress reports on the floor monitors”
 
 #### •	Ownership: 
