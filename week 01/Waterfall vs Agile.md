@@ -12,3 +12,6 @@ Agile methodology was developed as a response to Waterfall’s more rigid struct
 In Agile, the team will work on phases of the project concurrently, often with short-term deadlines. Additionally, the team, rather than a project manager, drives the project’s direction. This can empower the team to be motivated and more productive, but also requires a more self-directed team.
 
 
+|Pros|Cons|
+|:--------------------------|:----------------------|
+|Short-term deadlines encourage productivity and efficiency|Because team members are working on multiple phases at a time, there is potential for overlap or unnecessary effort spent on later stages if an early phase needs to be modified|
