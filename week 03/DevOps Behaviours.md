@@ -20,7 +20,8 @@ DevOps relies heavily on automation to streamline the software delivery process 
 ####  1. Continuous Integration and Continuous Delivery (CI/CD) pipelines:
 Automated processes that allow developers to build, test, and deploy code changes to production quickly and reliably.
 
-####  2.Infrastructure as Code (IaC): The use of automated scripts to provision and configure infrastructure, making it easier to manage and maintain infrastructure at scale.
+####  2.Infrastructure as Code (IaC): 
+The use of automated scripts to provision and configure infrastructure, making it easier to manage and maintain infrastructure at scale.
 
 ####  3. Automated testing: 
 The use of tools to automate testing, such as unit testing, integration testing, and end-to-end testing.
