@@ -8,7 +8,7 @@ DevOps requires close collaboration between developers, operations teams, and ot
  ### Cross-functional teams:
 Development, operations, and other teams work together to achieve common goals.
 
-. ### Joint planning and decision-making: 
+### . Joint planning and decision-making: 
 Teams collaborate to plan and make decisions about the software development process, such as which tools to use and how to optimize workflows.
 
 . ### Knowledge sharing: 
