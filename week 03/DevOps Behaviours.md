@@ -5,7 +5,7 @@ DevOps is a software development approach that emphasizes collaboration, integra
 ## Collaboration:
 DevOps requires close collaboration between developers, operations teams, and other stakeholders to ensure smooth and efficient software delivery. Some examples of collaboration in DevOps include:
 
-. ### Cross-functional teams:
+ ### Cross-functional teams:
 Development, operations, and other teams work together to achieve common goals.
 
 . ### Joint planning and decision-making: 
