@@ -104,7 +104,7 @@ Google’s SRE Workbook recommends implementing automation if a playbook contain
 
 In recent years, SRE and DevOps roles have become super-important in many companies. But this doesn’t mean everyone agrees upon what exactly SRE and DevOps teams do. Likewise, there is no universal description for DevOps and Site Reliability Engineer jobs. Below, we’ll try to highlight the most essential aspects of DevOps and SRE functions.
 
-Site Reliability Engineer role and SRE team
+### Site Reliability Engineer role and SRE team
 
 A typical SRE team is composed of either software developers with expertise in operations or IT operations specialists with software development skills. At Google, such teams are usually a fifty-fifty mix of those who have more of a software background and those who have more of a systems background. Other companies form SRE teams by adding software engineering skill sets and approaches to existing operations practices and personnel.
 
