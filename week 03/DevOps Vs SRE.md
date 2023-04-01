@@ -32,9 +32,7 @@ Another difference from SRE is that DevOps emerged in the first place as a cultu
 
 Broadly speaking, DevOps describes what needs to be done to unify software development and operations. Whereas SRE prescribes how this can be done. DevOps culture is based on several pillars that are covered by corresponding SRE practices.
 
-
-
-
+![pillars](https://user-images.githubusercontent.com/125833255/229308161-9ea6f657-f468-4c8d-b7ed-d103d977d2e7.png)
 
 Five key DevOps pillars are
 1.	No more silos. The idea stems from the fact that a lack of collaboration and information flow across teams reduces productivity.
