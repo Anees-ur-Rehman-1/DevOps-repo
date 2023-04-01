@@ -7,8 +7,7 @@ This article explains how DevOps and SRE facilitate building reliable software, 
 # Google SRE vs DevOps basics: two sides of the same coin
 In essence, two methodologies do the same thing: They try to bridge the gap between development and operations teams. Both aim at improving the release cycle and achieving better product reliability. But before diving deeper into the differences and similarities between them, let’s think back to when and for what reason SRE and DevOps appeared at all.
 
-
-
+![SRE vs Devops](https://user-images.githubusercontent.com/125833255/229307947-efbe8716-d7e2-4d0f-a953-bc8c860894b9.png)
 
 # What is SRE?
 Site Reliability Engineering or SRE is a unique, software-first approach to IT operations supported by the set of corresponding practices. It originated in the early 2000s at Google to ensure the health of a large, complex system serving over 100 billion requests per day. In the words of Ben Treynor Sloss, Google’s VP of engineering who coined the very term SRE, “It’s what happens when you ask a software engineer to design an operation function.”
