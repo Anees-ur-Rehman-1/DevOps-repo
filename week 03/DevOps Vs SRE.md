@@ -14,7 +14,7 @@ Site Reliability Engineering or SRE is a unique, software-first approach to IT o
 
 The primary focus of SRE is system reliability, which is considered the most fundamental feature of any product. The pyramid below illustrates elements contributing to the reliability, from the most basic (monitoring) to the most advanced (reliable product launches).
 
-
+![SRE](https://user-images.githubusercontent.com/125833255/229308013-bb3420a4-fc86-4306-9e02-632cdd4b0618.png)
 
 The hierarchy of service reliability needs, according to Google’s SRE book
 
