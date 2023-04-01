@@ -93,14 +93,11 @@ Of course, this is not an exhaustive list of roles in DevOps. Quite often such a
 No matter the number and background of team members, obviously DevOps is not a role or person in contrast to SRE. However, as of writing this article, there were nearly 25,000 DevOps Engineer jobs posted on Glassdoor — which is comparable with almost 33,000 Site Reliability Engineers sought on the same website.
 A brief examination of vacancies on Glassdoor reveals that background, responsibilities, and skills required for both jobs have a lot of overlap. It seems that employers often use these job titles interchangeably.
 
-
-
-
-
+![Dev Vs Sre](https://user-images.githubusercontent.com/125833255/229308222-7b1484f7-e311-429c-8a02-66a6321e2ebf.png)
 
 DevOps vs SRE engineer jobs comparison based on vacancies published by Glassdoor.
 However, average yearly salaries are somewhat higher among SREs — thanks to the financial data submitted by employees working for tech giants like Google, LinkedIn, Twitter, Microsoft, Apple, and Adobe, to name a few.
-SRE vs DevOps tools: the same solutions do for both
+# SRE vs DevOps tools: the same solutions do for both
 Matthew Flaming, VP of software engineering at New Relic Application Software Monitoring, describes SRE as “the purest distillation of DevOps principles into a single role.” That being said, an SRE and DevOps toolset can be very much the same and typically include the following positions.
 Containers and microservices facilitate creating a scalable system. So, Docker for building and deployment containerized apps and Kubernetes for container orchestration come as integral parts of SRE/DevOps toolchains.
 CI/CD tools like Jenkins or CircleCI support the idea of gradual change, enabling teams to build, test, and deploy code faster.
