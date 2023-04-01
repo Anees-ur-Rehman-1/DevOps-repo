@@ -58,8 +58,11 @@ Corresponds to “the more automation the better,” “metrics are crucial”
 In terms of SRE, toil is manual, repetitive work devoid of long-term value and related to running a production service. Examples of toil are
 
 •	regular password resets,
+
 •	manual releases,
+
 •	reviewing non-critical alerts, and
+
 •	manual scaling of infrastructure.
 
 SRE’s rule of thumb is to keep toil below 50 percent of engineers’ work time. Once the threshold is exceeded, the team needs to identify the top source of toil. Then engineers develop a software solution to automate some tasks and achieve a healthy work balance. A good practice is to eliminate a bit of toil each week.
