@@ -3,7 +3,7 @@ Continuous Delivery (CD) is a software development practice that emphasizes the 
 
 CD builds on the principles of Continuous Integration (CI), which focuses on the automated testing and integration of code changes into a shared codebase. The goal of CD is to ensure that software changes can be released to production at any time with a high degree of confidence, by automating the release process and catching issues early in the development cycle.
 
-The CD process typically involves the following steps:
+## The CD process typically involves the following steps:
 ### Continuous Integration:
  Developers integrate their code changes into the shared codebase using CI practices, such as version control, automated testing, and code reviews. This ensures that changes are tested and integrated into the codebase frequently and consistently.
 ### Automated Testing: 
@@ -14,7 +14,7 @@ The changes are automatically deployed to a staging environment, where they can 
 The software is monitored in real-time to detect any issues that arise, and alerts are sent to the development team if any issues occur. The monitoring can include log analysis, performance metrics, and user feedback, among others. The goal is to identify and address issues quickly, before they affect users or the business.
 
 
-The key benefits of CD include:
+## The key benefits of CD include:
 ### Faster time-to-market: 
 CD enables teams to release changes to production more frequently, which reduces the time it takes to deliver new features and functionality to users.
 ### Lower costs: 
