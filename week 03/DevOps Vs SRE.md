@@ -24,10 +24,10 @@ The term DevOps (short for development and operations) was coined in 2009 by Pat
 
 While SRE concentrates on keeping services running and available to users, DevOps aims to cover the entire product life cycle, from design to operations, making all processes continuous after Agile methodologies. Such end-to-end continuity is paramount to reducing time to market and making rapid changes.
 
-
-
+![DevOps](https://user-images.githubusercontent.com/125833255/229308076-bb7be94f-b94b-42bf-bdb2-24e5ef4f25ca.png)
 
 Another difference from SRE is that DevOps emerged in the first place as a culture and mindset that didn’t specify how exactly to implement its ideas. It’s often viewed as a generalization of key SRE methods so that they can be used by a wider range of organizations. Likewise, SRE can be seen as an embodiment of DevOps visions. The next section describes the interactions between two methodologies in more detail.
+
 # Practice vs mindset: how Site Reliability Engineering implements DevOps philosophies
 
 Broadly speaking, DevOps describes what needs to be done to unify software development and operations. Whereas SRE prescribes how this can be done. DevOps culture is based on several pillars that are covered by corresponding SRE practices.
