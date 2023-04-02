@@ -64,9 +64,117 @@ Top Iaas Providers who are providing IaaS cloud computing platform
 |Tata Communications |InstaCompute|InstaCompute is Tata Communications' IaaS offering. InstaCompute data centers are located in Hyderabad and Singapore, with operations in both countries.|
 
 
-Platform as a Service (PaaS):
+## Platform as a Service (PaaS):
 Platform as a Service (PaaS) provides a runtime environment. It allows programmers to easily create, test, run, and deploy web applications. You can purchase these applications from a cloud service provider on a pay-as-per use basis and access them using the Internet connection. In PaaS, back end scalability is managed by the cloud service provider, so end- users do not need to worry about managing the infrastructure. 
 PaaS includes infrastructure (servers, storage, and networking) and platform (middleware, development tools, database management systems, business intelligence, and more) to support the web application life cycle.
 Example: Google App Engine, Force.com, Joyent, Azure.
 PaaS providers provide the Programming languages, Application frameworks, Databases, and Other tools:
 
+
+
+
+1. Programming languages
+PaaS providers provide various programming languages for the developers to develop the applications. Some popular programming languages provided by PaaS providers are Java, PHP, Ruby, Perl, and Go.
+2. Application frameworks
+PaaS providers provide application frameworks to easily understand the application development. Some popular application frameworks provided by PaaS providers are Node.js, Drupal, Joomla, WordPress, Spring, Play, Rack, and Zend.
+3. Databases
+PaaS providers provide various databases such as ClearDB, PostgreSQL, MongoDB, and Redis to communicate with the applications.
+4. Other tools
+PaaS providers provide various other tools that are required to develop, test, and deploy the applications.
+Advantages of PaaS
+There are the following advantages of PaaS -
+1) Simplified Development
+PaaS allows developers to focus on development and innovation without worrying about infrastructure management.
+2) Lower risk
+No need for up-front investment in hardware and software. Developers only need a PC and an internet connection to start building applications.
+3) Prebuilt business functionality
+Some PaaS vendors also provide already defined business functionality so that users can avoid building everything from very scratch and hence can directly start the projects only.
+4) Instant community
+PaaS vendors frequently provide online communities where the developer can get the ideas to share experiences and seek advice from others.
+5) Scalability
+Applications deployed can scale from one to thousands of users without any changes to the applications.
+Disadvantages of PaaS cloud computing layer
+1) Vendor lock-in
+One has to write the applications according to the platform provided by the PaaS vendor, so the migration of an application to another PaaS vendor would be a problem.
+2) Data Privacy
+Corporate data, whether it can be critical or not, will be private, so if it is not located within the walls of the company, there can be a risk in terms of privacy of data.
+3) Integration with the rest of the systems applications
+It may happen that some applications are local, and some are in the cloud. So there will be chances of increased complexity when we want to use data which in the cloud with the local data.
+Popular PaaS Providers
+
+
+
+
+
+|Providers|Services|
+|:--------|:-------|
+|Google App Engine (GAE)|App Identity, URL Fetch, Cloud storage client library, Logservice|
+|Salesforce.com|Faster implementation, Rapid scalability, CRM Services, Sales cloud, Mobile connectivity, Chatter.|
+|Windows Azure|Compute, security, IoT, Data Storage.|
+|AppFog|Justcloud.com, SkyDrive, GoogleDocs|
+|Openshift|RedHat, Microsoft Azure.|
+|Cloud Foundry from VMware|Data, Messaging, and other services.|
+
+
+Software as a Service | SaaS
+SaaS is also known as "On-Demand Software". It is a software distribution model in which services are hosted by a cloud service provider. These services are available to end-users over the internet so, the end-users do not need to install any software on their devices to access these services.
+There are the following services provided by SaaS providers -
+Business Services - SaaS Provider provides various business services to start-up the business. The SaaS business services include ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), billing, and sales.
+Document Management - SaaS document management is a software application offered by a third party (SaaS providers) to create, manage, and track electronic documents.
+Example: Slack, Samepage, Box, and Zoho Forms.
+Social Networks - As we all know, social networking sites are used by the general public, so social networking service providers use SaaS for their convenience and handle the general public's information.
+Mail Services - To handle the unpredictable number of users and load on e-mail services, many e-mail providers offering their services using SaaS.
+
+
+
+
+
+
+Advantages of SaaS cloud computing layer
+1) SaaS is easy to buy
+SaaS pricing is based on a monthly fee or annual fee subscription, so it allows organizations to access business functionality at a low cost, which is less than licensed applications.
+Unlike traditional software, which is sold as a licensed based with an up-front cost (and often an optional ongoing support fee), SaaS providers are generally pricing the applications using a subscription fee, most commonly a monthly or annually fee.
+2. One to Many
+SaaS services are offered as a one-to-many model means a single instance of the application is shared by multiple users.
+3. Less hardware required for SaaS
+The software is hosted remotely, so organizations do not need to invest in additional hardware.
+4. Low maintenance required for SaaS
+Software as a service removes the need for installation, set-up, and daily maintenance for the organizations. The initial set-up cost for SaaS is typically less than the enterprise software. SaaS vendors are pricing their applications based on some usage parameters, such as a number of users using the application. So SaaS does easy to monitor and automatic updates.
+5. No special software or hardware versions required
+All users will have the same version of the software and typically access it through the web browser. SaaS reduces IT support costs by outsourcing hardware and software maintenance and support to the IaaS provider.
+6. Multidevice support
+SaaS services can be accessed from any device such as desktops, laptops, tablets, phones, and thin clients.
+7. API Integration
+SaaS services easily integrate with other software or services through standard APIs.
+8. No client-side installation
+SaaS services are accessed directly from the service provider using the internet connection, so do not need to require any software installation.
+Disadvantages of SaaS cloud computing layer
+1) Security
+Actually, data is stored in the cloud, so security may be an issue for some users. However, cloud computing is not more secure than in-house deployment.
+2) Latency issue
+Since data and applications are stored in the cloud at a variable distance from the end-user, there is a possibility that there may be greater latency when interacting with the application compared to local deployment. Therefore, the SaaS model is not suitable for applications whose demand response time is in milliseconds.
+3) Total Dependency on Internet
+Without an internet connection, most SaaS applications are not usable.
+4) Switching between SaaS vendors is difficult
+Switching SaaS vendors involves the difficult and slow task of transferring the very large data files over the internet and then converting and importing them into another SaaS also.
+Popular SaaS Providers
+
+
+
+
+
+
+
+
+
+
+|Provider|Services|
+|:-------|:-------|
+|Salseforce.com|On-demand CRM solutions|
+|Microsoft Office 365|Online office suite|
+|Google Apps|Gmail, Google Calendar, Docs, and sites|
+|NetSuite|ERP, accounting, order management, CRM, Professionals Services Automation (PSA), and e-commerce applications|
+|GoToMeeting|Online meeting and video-conferencing software|
+|Constant Contact|E-mail marketing, online survey, and event marketing|
+|Oracle CRM|CRM applications|
+|Workday, Inc|Human capital management, payroll, and financial management.|
