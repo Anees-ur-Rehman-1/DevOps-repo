@@ -72,7 +72,7 @@ PaaS providers provide the Programming languages, Application frameworks, Databa
 
 ![images](https://user-images.githubusercontent.com/125833255/229324943-4d46a661-90b2-4689-a2d9-f4e1014f058d.jpg)
 
-![paas2](https://user-images.githubusercontent.com/125833255/229325005-299bbd05-9696-442c-9d7c-78260e93e568.png)
+![paas](https://user-images.githubusercontent.com/125833255/229325067-37e53433-16e9-40a4-9ac7-8c78f87bbd6d.png)
 
 1. Programming languages
 PaaS providers provide various programming languages for the developers to develop the applications. Some popular programming languages provided by PaaS providers are Java, PHP, Ruby, Perl, and Go.
