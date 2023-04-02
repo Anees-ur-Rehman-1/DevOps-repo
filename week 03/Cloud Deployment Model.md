@@ -54,11 +54,8 @@ It means that it will be integrated with your data center and managed by your IT
 •	High Maintenance - Since it is managed in-house, the maintenance costs also increase.
 ## Community Cloud
 The community cloud operates in a way that is similar to the public cloud. There's just one difference - it allows access to only a specific set of users who share common objectives and use cases. This type of deployment model of cloud computing is managed and hosted internally or by a third-party vendor. However, you can also choose a combination of all three.
-
   
-  
-  
-  
+![cloud-deployment-model4](https://user-images.githubusercontent.com/125833255/229324168-d8ce0e6f-51f9-4b3c-9614-e21d81bbf856.png)    
   
  ## Benefits of Community Cloud
 
@@ -80,12 +77,19 @@ Let's understand the hybrid model better. A company with critical data will pref
   
   
  ## Benefits of Hybrid Cloud
+
 •	Cost-Effectiveness - The overall cost of a hybrid solution decreases since it majorly uses the public cloud to store data.
+
 •	Security - Since data is properly segmented, the chances of data theft from attackers are significantly reduced.
+
 •	Flexibility - With higher levels of flexibility, businesses can create custom solutions that fit their exact requirements
+
 ## Limitations of Hybrid Cloud
+
 •	Complexity - It is complex setting up a hybrid cloud since it needs to integrate two or more cloud architectures
+
 •	Specific Use Case - This model makes more sense for organizations that have multiple use cases or need to separate critical and sensitive data
+
 ## A Comparative Analysis of Cloud Deployment Models
 
 With the below table, we have attempted to analyze the key models with an overview of what each one can do for you:
