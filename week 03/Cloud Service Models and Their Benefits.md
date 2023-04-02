@@ -125,9 +125,7 @@ Example: Slack, Samepage, Box, and Zoho Forms.
 Social Networks - As we all know, social networking sites are used by the general public, so social networking service providers use SaaS for their convenience and handle the general public's information.
 Mail Services - To handle the unpredictable number of users and load on e-mail services, many e-mail providers offering their services using SaaS.
 
-
-
-
+![Untitled](https://user-images.githubusercontent.com/125833255/229325137-a6b60b59-fddf-4fa7-9d20-417cd4924077.png)
 
 
 Advantages of SaaS cloud computing layer
