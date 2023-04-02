@@ -21,6 +21,7 @@ IaaS provider provides the following services -
 
 4.	Load balancers: It provides load balancing capability at the infrastructure layer.
 
+![infrastructure-as-a-service-iaas-diagram](https://user-images.githubusercontent.com/125833255/229324621-64254e98-89a5-439c-bb59-4f70d8be8a21.png)
 
 
 
