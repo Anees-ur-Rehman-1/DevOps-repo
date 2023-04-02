@@ -4,6 +4,9 @@ Cloud computing is a model for delivering computing resources and services over 
 
 ![Screenshot (87)](https://user-images.githubusercontent.com/125833255/229324450-f470b049-f11e-4f71-a4da-51b531c9e1ad.png)
 
+![cloudcomputing-2](https://user-images.githubusercontent.com/125833255/229325636-6dcbaf81-9dc9-4a63-be4c-e5c80a84c45b.png)
+
+
 ## Infrastructure as a Service Definition
 
 Iaas is also known as Hardware as a Service (HaaS). It is one of the layers of the cloud computing platform. It allows customers to outsource their IT infrastructures such as servers, networking, processing, storage, virtual machines, and other resources. Customers access these resources on the Internet using a pay-as-per use model.
