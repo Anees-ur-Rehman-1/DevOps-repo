@@ -10,11 +10,8 @@ It works as your virtual computing environment with a choice of deployment model
 ## Different Types Of Cloud Computing Deployment Models
 Most cloud hubs have tens of thousands of servers and storage devices to enable fast loading. It is often possible to choose a geographic area to put the data "closer" to users. Thus, deployment models for cloud computing are categorized based on their location. To know which model would best fit the requirements of your organization, let us first learn about the various types.
 
-  
-  
-  
-  
-  
+  ![cloud-deployment-model1](https://user-images.githubusercontent.com/125833255/229324038-8844a77c-14d8-4830-8931-11e4fb5f8f21.png)
+    
   
 ### Public Cloud
 The name says it all. It is accessible to the public. Public deployment models in the cloud are perfect for organizations with growing and fluctuating demands. It also makes a great choice for companies with low-security concerns. Thus, you pay a cloud service provider for networking services, compute virtualization & storage available on the public internet. It is also a great delivery model for the teams with development and testing. Its configuration and deployment are quick and easy, making it an ideal choice for test environments.
