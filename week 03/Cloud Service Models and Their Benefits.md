@@ -127,6 +127,8 @@ Mail Services - To handle the unpredictable number of users and load on e-mail s
 
 ![Untitled](https://user-images.githubusercontent.com/125833255/229325137-a6b60b59-fddf-4fa7-9d20-417cd4924077.png)
 
+![saas2](https://user-images.githubusercontent.com/125833255/229325157-9edda63c-27da-45a5-a54e-81bbfa2042af.png)
+
 
 Advantages of SaaS cloud computing layer
 1) SaaS is easy to buy
