@@ -3,7 +3,7 @@ Today, organizations have many exciting opportunities to reimagine, repurpose an
 
   Though the answer to which cloud model is an ideal fit for a business depends on your organization's computing and business needs. Choosing the right one from the various types of cloud service deployment models is essential. It would ensure your business is equipped with the performance, scalability, privacy, security, compliance & cost-effectiveness it requires. It is important to learn and explore what different deployment types can offer - around what particular problems it can solve.
 
-    Read on as we cover the various cloud computing deployment and service models to help discover the best choice for your business.
+Read on as we cover the various cloud computing deployment and service models to help discover the best choice for your business.
 ### What Is A Cloud Deployment Model?
 It works as your virtual computing environment with a choice of deployment model depending on how much data you want to store and who has access to the Infrastructure.
 
@@ -16,11 +16,7 @@ Most cloud hubs have tens of thousands of servers and storage devices to enable 
 ### Public Cloud
 The name says it all. It is accessible to the public. Public deployment models in the cloud are perfect for organizations with growing and fluctuating demands. It also makes a great choice for companies with low-security concerns. Thus, you pay a cloud service provider for networking services, compute virtualization & storage available on the public internet. It is also a great delivery model for the teams with development and testing. Its configuration and deployment are quick and easy, making it an ideal choice for test environments.
 
-  
-  
-  
-  
-  
+![cloud-deployment-model2](https://user-images.githubusercontent.com/125833255/229324082-de4891b7-348c-490a-86fd-1f24350431b0.png)
   
 ## Benefits of Public Cloud
 •	Minimal Investment - As a pay-per-use service, there is no large upfront cost and is ideal for businesses who need quick access to resources
