@@ -103,8 +103,7 @@ Corporate data, whether it can be critical or not, will be private, so if it is 
 It may happen that some applications are local, and some are in the cloud. So there will be chances of increased complexity when we want to use data which in the cloud with the local data.
 Popular PaaS Providers
 
-
-
+![paas2](https://user-images.githubusercontent.com/125833255/229325005-299bbd05-9696-442c-9d7c-78260e93e568.png)
 
 
 |Providers|Services|
