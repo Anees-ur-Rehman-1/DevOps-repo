@@ -54,7 +54,7 @@ Top Iaas Providers who are providing IaaS cloud computing platform
 ![iaas2](https://user-images.githubusercontent.com/125833255/229324686-77f3c3b6-558a-4730-aae0-91e8d4d58f0f.png)
 
 
-# |IaaS Vendor|Iaas Solution|Details|
+|**IaaS Vendor**|**Iaas Solution**|**Details**|
 |:----------|:------------|:------|
 |Amazon Web Services|Elastic, Elastic Compute Cloud (EC2) MapReduce, Route 53, Virtual Private Cloud, etc. |The cloud computing platform pioneer, Amazon offers auto scaling, cloud monitoring, and load balancing features as part of its portfolio.|
 |Netmagic Solutions |Netmagic IaaS Cloud|Netmagic runs from data centers in Mumbai, Chennai, and Bangalore, and a virtual data center in the United States. Plans are underway to extend services to West Asia|
