@@ -23,7 +23,7 @@ IaaS provider provides the following services -
 
 ![infrastructure-as-a-service-iaas-diagram](https://user-images.githubusercontent.com/125833255/229324621-64254e98-89a5-439c-bb59-4f70d8be8a21.png)
 
-
+![iaas](https://user-images.githubusercontent.com/125833255/229324643-94e87173-93b5-49eb-b288-eb4203879af7.png)
 
 Advantages of IaaS cloud computing layer
 There are the following advantages of IaaS computing layer -
