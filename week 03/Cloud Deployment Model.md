@@ -20,29 +20,37 @@ The name says it all. It is accessible to the public. Public deployment models i
   
 ## Benefits of Public Cloud
 •	Minimal Investment - As a pay-per-use service, there is no large upfront cost and is ideal for businesses who need quick access to resources
+
 •	No Hardware Setup - The cloud service providers fully fund the entire Infrastructure
+
 •	No Infrastructure Management - This does not require an in-house team to utilize the public cloud.
 ##Limitations of Public Cloud
+
 •	Data Security and Privacy Concerns - Since it is accessible to all, it does not fully protect against cyber-attacks and could lead to vulnerabilities.
+
 •	Reliability Issues - Since the same server network is open to a wide range of users, it can lead to malfunction and outages
+
 •	Service/License Limitation - While there are many resources you can exchange with tenants, there is a usage cap.
+
 ## Private Cloud
 Now that you understand what the public cloud could offer you, of course, you are keen to know what a private cloud can do. Companies that look for cost efficiency and greater control over data & resources will find the private cloud a more suitable choice.
 
 It means that it will be integrated with your data center and managed by your IT team. Alternatively, you can also choose to host it externally. The private cloud offers bigger opportunities that help meet specific organizations' requirements when it comes to customization. It's also a wise choice for mission-critical processes that may have frequently changing requirements. 
-
-   
-   
-   
-   
+  
+![cloud-deployment-model3](https://user-images.githubusercontent.com/125833255/229324118-a45ccdd7-8b92-4b5f-8428-e515349b89b8.png)     
    
  ## Benefits of Private Cloud
 •	Data Privacy - It is ideal for storing corporate data where only authorized personnel gets access
+
 •	Security - Segmentation of resources within the same Infrastructure can help with better access and higher levels of security.
+
 •	Supports Legacy Systems - This model supports legacy systems that cannot access the public cloud.
 ## Limitations of Private Cloud
+
 •	Higher Cost - With the benefits you get, the investment will also be larger than the public cloud. Here, you will pay for software, hardware, and resources for staff and training.
+
 •	Fixed Scalability - The hardware you choose will accordingly help you scale in a certain direction
+
 •	High Maintenance - Since it is managed in-house, the maintenance costs also increase.
 ## Community Cloud
 The community cloud operates in a way that is similar to the public cloud. There's just one difference - it allows access to only a specific set of users who share common objectives and use cases. This type of deployment model of cloud computing is managed and hosted internally or by a third-party vendor. However, you can also choose a combination of all three.
@@ -53,10 +61,14 @@ The community cloud operates in a way that is similar to the public cloud. There
   
   
  ## Benefits of Community Cloud
+
 •	Smaller Investment - A community cloud is much cheaper than the private & public cloud and provides great performance
+
 •	Setup Benefits - The protocols and configuration of a community cloud must align with industry standards, allowing customers to work much more efficiently.
 ## Limitations of Community Cloud
+
 •	Shared Resources - Due to restricted bandwidth and storage capacity, community resources often pose challenges.
+
 •	Not as Popular - Since this is a recently introduced model, it is not that popular or available across industries
 ## Hybrid Cloud
 As the name suggests, a hybrid cloud is a combination of two or more cloud architectures. While each model in the hybrid cloud functions differently, it is all part of the same architecture. Further, as part of this deployment of the cloud computing model, the internal or external providers can offer resources.
