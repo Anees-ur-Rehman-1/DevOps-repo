@@ -127,8 +127,7 @@ Mail Services - To handle the unpredictable number of users and load on e-mail s
 
 ![Untitled](https://user-images.githubusercontent.com/125833255/229325137-a6b60b59-fddf-4fa7-9d20-417cd4924077.png)
 
-![saas2](https://user-images.githubusercontent.com/125833255/229325157-9edda63c-27da-45a5-a54e-81bbfa2042af.png)
-
+![saas](https://user-images.githubusercontent.com/125833255/229325192-5133ad3d-19bd-4337-87f1-b198fb82e614.png)
 
 Advantages of SaaS cloud computing layer
 1) SaaS is easy to buy
@@ -159,14 +158,7 @@ Without an internet connection, most SaaS applications are not usable.
 Switching SaaS vendors involves the difficult and slow task of transferring the very large data files over the internet and then converting and importing them into another SaaS also.
 Popular SaaS Providers
 
-
-
-
-
-
-
-
-
+![saas2](https://user-images.githubusercontent.com/125833255/229325157-9edda63c-27da-45a5-a54e-81bbfa2042af.png)
 
 |Provider|Services|
 |:-------|:-------|
