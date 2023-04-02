@@ -92,6 +92,7 @@ Let's understand the hybrid model better. A company with critical data will pref
 
 With the below table, we have attempted to analyze the key models with an overview of what each one can do for you:
 
+
 |Important Factors to Consider|Public|Private|Community|Hybrid|
 |:-----------------------------|:----|:------|:--------|:-----|
 |Setup and ease of use|Easy|Requires professional IT Team|Requires professional IT Team|Requires professional IT Team|
@@ -99,11 +100,6 @@ With the below table, we have attempted to analyze the key models with an overvi
 |Scalability and flexibility|High|High|Fixed requirements|High|
 |Cost-Effectiveness|Most affordable|Most expensive|Cost is distributed among members|Cheaper than private but more expensive than public|
 |Reliability|Low|High|Higher|High|
-
-
-
-
-
 
 
 ## Making the Right Choice for Cloud Deployment Models
@@ -119,7 +115,7 @@ There is no one-size-fits-all approach to picking a cloud deployment model. Inst
 
 •	Privacy - Have you set strict privacy rules for the data you gather?
 
-    Each cloud deployment model has a unique offering and can immensely add value to your business. For small to medium-sized businesses, a public cloud is an ideal model to start with. And as your requirements change, you can switch over to a different deployment model. An effective strategy can be designed depending on your needs using the cloud mentioned above deployment models.
+Each cloud deployment model has a unique offering and can immensely add value to your business. For small to medium-sized businesses, a public cloud is an ideal model to start with. And as your requirements change, you can switch over to a different deployment model. An effective strategy can be designed depending on your needs using the cloud mentioned above deployment models.
 ## 3 Service Models of Cloud Computing
 Cloud computing makes it possible to render several services, defined according to the roles, service providers, and user companies. Cloud computing models and services are broadly classified as below:
 ## IAAS: Changing Its Hardware Infrastructure on Demand
@@ -150,3 +146,6 @@ Software as a Service (SaaS) is provided over the internet and requires no prior
 •	You benefit from automatic updates with the guarantee that all users have the same software version.
 
 •	It enables easy and quicker testing of new software solutions.
+
+### For Who?
+SAAS model accounts for 60% of sales of cloud solutions. Hence, it is applicable and preferred by most companies.
