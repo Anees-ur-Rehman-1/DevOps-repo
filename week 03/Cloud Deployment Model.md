@@ -72,9 +72,7 @@ As the name suggests, a hybrid cloud is a combination of two or more cloud archi
 
 Let's understand the hybrid model better. A company with critical data will prefer storing on a private cloud, while less sensitive data can be stored on a public cloud. The hybrid cloud is also frequently used for 'cloud bursting'. It means, supposes an organization runs an application on-premises, but due to heavy load, it can burst into the public cloud.
 
-  
-  
-  
+![cloud-deployment-model5](https://user-images.githubusercontent.com/125833255/229324191-04d7274d-9791-494c-87cc-d85b5a53f730.png)  
   
  ## Benefits of Hybrid Cloud
 
@@ -94,6 +92,13 @@ Let's understand the hybrid model better. A company with critical data will pref
 
 With the below table, we have attempted to analyze the key models with an overview of what each one can do for you:
 
+|Important Factors to Consider|Public|Private|Community|Hybrid|
+|:-----------------------------|:----|:------|:--------|:-----|
+|Setup and ease of use|Easy|Requires professional IT Team|Requires professional IT Team|Requires professional IT Team|
+|Data Security and Privacy|Low|High|Very High|High|
+|Scalability and flexibility|High|High|Fixed requirements|High|
+|Cost-Effectiveness|Most affordable|Most expensive|Cost is distributed among members|Cheaper than private but more expensive than public|
+|Reliability|Low|High|Higher|High|
 
 
 
