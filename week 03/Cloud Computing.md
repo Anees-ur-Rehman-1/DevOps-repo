@@ -34,10 +34,10 @@ Cloud computing also provides a number of different deployment models, including
 ### Public cloud:
  This cloud deployment model involves using shared computing resources that are owned and operated by a third-party provider. Public clouds are typically the most affordable and scalable option.
 
-## Private cloud:
+### Private cloud:
  This cloud deployment model involves using dedicated computing resources that are owned and operated by an organization. Private clouds are typically more expensive but offer greater control and security.
 
 ### Hybrid cloud: 
-This cloud deployment model involves using a combination of public and private cloud resources. Organizations can use public clouds for non-sensitive workloads while keeping sensitive workloads in a private cloud.
+This cloud deployment model involves using a combination of public and private cloud resources. Organizations can use public clouds for non-sensitive workloads while keeping sensitive workloads in a private cloud
 
 In conclusion, cloud computing is a technology that enables the delivery of computing services over the internet. It offers a range of benefits, including cost savings, scalability, accessibility, reliability, and security, and can be deployed in a number of different models, including public, private, and hybrid clouds.
