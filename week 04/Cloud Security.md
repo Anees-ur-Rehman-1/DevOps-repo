@@ -18,7 +18,7 @@ DoS attacks can overwhelm cloud infrastructure, making it unavailable to legitim
 ## Misconfiguration:
  Misconfigured cloud resources can leave them vulnerable to attack and compromise security.
 
-**To address these threats, cloud security solutions use a combination of technologies, policies, and practices, including: **
+**To address these threats, cloud security solutions use a combination of technologies, policies, and practices, including:**
 
 ## Encryption: 
 Encryption is used to protect data stored in the cloud by converting it into a format that can only be read by authorized users with the appropriate decryption key.
