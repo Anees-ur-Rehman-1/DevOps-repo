@@ -17,7 +17,7 @@ Denial of Service (DoS) attacks: DoS attacks can overwhelm cloud infrastructure,
 ## Misconfiguration:
  Misconfigured cloud resources can leave them vulnerable to attack and compromise security.
 
-# To address these threats, cloud security solutions use a combination of technologies, policies, and practices, including:
+## To address these threats, cloud security solutions use a combination of technologies, policies, and practices, including:
 
 ## Encryption: 
 Encryption is used to protect data stored in the cloud by converting it into a format that can only be read by authorized users with the appropriate decryption key.
@@ -37,6 +37,7 @@ Data backup and recovery solutions are used to ensure that data can be restored 
 ## Monitoring and logging: 
 Monitoring and logging solutions are used to track activity on cloud resources and detect any suspicious behavior.
 
-Compliance and regulatory requirements: Cloud security solutions must comply with industry and government regulations and standards, such as GDPR and HIPAA.
+## Compliance and regulatory requirements: 
+Cloud security solutions must comply with industry and government regulations and standards, such as GDPR and HIPAA.
 
 Overall, cloud security is a complex and constantly evolving field that requires a combination of technologies, policies, and practices to effectively protect cloud resources from security threats. Cloud providers and users must work together to ensure that cloud security is a top priority and that appropriate measures are in place to protect against emerging threats
