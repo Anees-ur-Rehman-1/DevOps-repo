@@ -6,13 +6,14 @@ Cloud security threats can come from a variety of sources, including cybercrimin
 ## Data breaches:
 Unauthorized access to sensitive data stored in the cloud can result in data breaches that can compromise business operations and reputation.
 
-# Malware and ransomware:
+## Malware and ransomware:
 Malware and ransomware attacks can infect cloud infrastructure and cause significant disruption to business operations.
 
 ## Insider threats:
  Malicious insiders, including employees and contractors, can use their access to cloud resources to steal data or disrupt business operations.
 
-Denial of Service (DoS) attacks: DoS attacks can overwhelm cloud infrastructure, making it unavailable to legitimate users.
+## Denial of Service (DoS) attacks: 
+DoS attacks can overwhelm cloud infrastructure, making it unavailable to legitimate users.
 
 ## Misconfiguration:
  Misconfigured cloud resources can leave them vulnerable to attack and compromise security.
