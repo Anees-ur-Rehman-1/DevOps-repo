@@ -8,7 +8,8 @@ One of the biggest benefits of cloud computing is the ability to easily scale up
 ## Cost savings: 
 Cloud computing can help organizations reduce capital expenditures and operational expenses by eliminating the need to invest in and maintain expensive hardware and software. Instead, businesses can rent the resources they need from cloud providers and only pay for what they use. This pay-as-you-go pricing model can help organizations save money and improve cash flow by avoiding large upfront investments in hardware and software.
 
-Agility and innovation: Cloud computing can help organizations become more agile and innovative by enabling them to quickly deploy new applications and services. With cloud computing, businesses can easily experiment with new ideas and quickly bring them to market. Cloud providers offer a wide range of pre-built services, such as machine learning, analytics, and mobile app development, that can help organizations quickly build and deploy new applications and services.
+## Agility and innovation:
+Cloud computing can help organizations become more agile and innovative by enabling them to quickly deploy new applications and services. With cloud computing, businesses can easily experiment with new ideas and quickly bring them to market. Cloud providers offer a wide range of pre-built services, such as machine learning, analytics, and mobile app development, that can help organizations quickly build and deploy new applications and services.
 
 ## Accessibility: 
 Cloud computing provides easy access to applications and data from anywhere with an internet connection. This allows employees to work remotely or collaborate with colleagues in other locations. Cloud computing also makes it easy for businesses to provide access to applications and data to customers and partners.
