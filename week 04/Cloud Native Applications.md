@@ -20,19 +20,19 @@ Cloud-native applications are built using DevOps practices that emphasize automa
 
 ## Some of the benefits of cloud-native applications include:
 
-## Agility: 
+### Agility: 
 Cloud-native applications are designed to be flexible and easily adapted to changing business needs.
 
-## Scalability: 
+### Scalability: 
 Cloud-native applications can easily scale up or down based on demand, without requiring significant manual intervention.
 
-## Cost-efficiency: 
+### Cost-efficiency: 
 Cloud-native applications are often built using open-source technologies and can run on commodity hardware, which can help to reduce costs.
 
-## Resilience:
+### Resilience:
  Cloud-native applications are designed to be highly resilient, with built-in redundancy and failover capabilities to ensure high availability.
 
-## Innovation: 
+### Innovation: 
 Cloud-native applications can take advantage of the latest cloud technologies and services, allowing businesses to quickly innovate and differentiate themselves from competitors.
 
 In summary, cloud-native applications are software applications that are optimized for cloud infrastructure and built using modern application development practices. These applications offer a range of benefits including agility, scalability, cost-efficiency, resilience, and innovation.
