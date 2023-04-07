@@ -53,13 +53,13 @@ The first step towards DevSecOps is to familiarize team members with the ideas b
 
 Although there are many security testing methods, it can be difficult to determine which method is best for a specific organization or project. Here is an overview of the basic testing techniques:
 
-•	Static Application Security Testing (SAST)—examines code to identify weaknesses.
+1. Static Application Security Testing (SAST)—examines code to identify weaknesses.
 
-•	Dynamic Application Security Testing (DAST)—involves administrators identifying vulnerabilities and security gaps.
+2. 	Dynamic Application Security Testing (DAST)—involves administrators identifying vulnerabilities and security gaps.
 
-•	Interactive Application Security Testing (IAST)—combines SAST and DAST to enable software instrumentation to screen applications.
+3. Interactive Application Security Testing (IAST)—combines SAST and DAST to enable software instrumentation to screen applications.
 
-•	Runtime Application Self-Protection (RASP)—leverages real-time app data to enable the automatic identification and remediation of attacks without an administrator’s involvement.
+4. Runtime Application Self-Protection (RASP)—leverages real-time app data to enable the automatic identification and remediation of attacks without an administrator’s involvement.
 
 •	Software Composition Analysis (SCA)—automatically identifies third-party and open libraries in an application, identifies known vulnerabilities, and notifies users of available updates and patches.
 
@@ -67,7 +67,7 @@ Code quality assessment is an important part of DevSecOps. It ensures that code 
 
 Another aspect of transitioning to DevSecOps is to set up protections for applications running across distributed infrastructure rather than relying on a security perimeter. This implicit approach to security is easier to maintain in fast-growing and changing environments.
 
-Conclusion:
+## Conclusion:
 
 In this article, we understood the key differences between DevOps and DevSecOps and showed that in many respects, DevSecOps is a subset of the DevOps methodology. Finally, we witnessed how the transition from DevOps to DevSecOps typically relies on tools that facilitate automated security testing, including SAST, DAST, RASP, and SCA.
 
