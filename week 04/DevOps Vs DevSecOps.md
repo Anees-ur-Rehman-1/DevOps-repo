@@ -35,4 +35,10 @@ Many organizations left security to post-production or even an external team, re
 |Parameters|DevOps|DevSecOps|
 |:---------|:-----|:---------|
 |Culture|Promotes a work culture or shared responsibility for development and operations.|Emphasizes security, extending the culture of shared responsibility.|
+|Treatment of security|Usually implements security at the end of the SDLC.|Introduces security into the continuous integration and continuous development (CI/CD) pipeline.|
+|Security tools|Combines modern DevOps pipelines with traditional security methods.|Requires teams to embrace new security tools and techniques. The DevOps process must include security tools and controls from the beginning, adapting security to the CI/CD workflow.|
+|Efficiency|Often results in security bottlenecks and technical debt due to slow feedback loops.|Reduces vulnerabilities in production, minimizing the costs of addressing security issues and bugs. It enables scalability without compromising security, placing secure code as a core DevOps objective. |
+|Automation|Automates development processes but relies on a human team to handle security |Brings security to all stages of the development and delivery process, embracing automation to accelerate security tasks. |
+
+
 
