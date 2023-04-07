@@ -32,3 +32,7 @@ Many organizations left security to post-production or even an external team, re
 
 ### Difference Between DevSecOps and DevOps:
 
+|Parameters|DevOps|DevSecOps|
+|;---------|;-----|;---------|
+|Culture|Promotes a work culture or shared responsibility for development and operations.|Emphasizes security, extending the culture of shared responsibility.|
+
