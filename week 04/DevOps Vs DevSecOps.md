@@ -41,4 +41,23 @@ Many organizations left security to post-production or even an external team, re
 |Automation|Automates development processes but relies on a human team to handle security |Brings security to all stages of the development and delivery process, embracing automation to accelerate security tasks. |
 
 
+Thus, the main difference between DevSecOps and DevOps is the emphasis on security—it extends the DevOps work culture to promote shared responsibility for security practices. Instead of implementing security at the end of the SDLC, DevSecOps introduces it into the continuous integration and continuous development (CI/CD) pipeline.
+
+A successful DevSecOps strategy requires teams to embrace new security tools and techniques rather than trying to combine traditional security methods with modern DevOps pipelines. The DevOps process must include security tools and controls from the beginning, adapting security to the CI/CD workflow.
+
+This approach reduces vulnerabilities in production, minimizing the costs of addressing security issues and bugs. It enables scalability without compromising security, placing secure code as a core DevOps objective. DevSecOps brings security to all stages of the development and delivery process, embracing automation to accelerate security tasks.
+## Transitioning from DevOps to DevSecOps:
+The first step towards DevSecOps is to familiarize team members with the ideas behind security. Once everyone is on board with the adoption process, the organization can start making changes to the development process. All employees must recognize the benefits of implementing application security from the start of the SDLC.
+Although there are many security testing methods, it can be difficult to determine which method is best for a specific organization or project. Here is an overview of the basic testing techniques:
+•	Static Application Security Testing (SAST)—examines code to identify weaknesses.
+•	Dynamic Application Security Testing (DAST)—involves administrators identifying vulnerabilities and security gaps.
+•	Interactive Application Security Testing (IAST)—combines SAST and DAST to enable software instrumentation to screen applications.
+•	Runtime Application Self-Protection (RASP)—leverages real-time app data to enable the automatic identification and remediation of attacks without an administrator’s involvement.
+•	Software Composition Analysis (SCA)—automatically identifies third-party and open libraries in an application, identifies known vulnerabilities, and notifies users of available updates and patches.
+Code quality assessment is an important part of DevSecOps. It ensures that code is normalized and stable, making it easier for teams to keep it secure in the future. Organizations should regularly educate their developers to promote secure coding practices and ensure they implement all code changes consistently.
+Another aspect of transitioning to DevSecOps is to set up protections for applications running across distributed infrastructure rather than relying on a security perimeter. This implicit approach to security is easier to maintain in fast-growing and changing environments.
+Conclusion:
+In this article, we understood the key differences between DevOps and DevSecOps and showed that in many respects, DevSecOps is a subset of the DevOps methodology. Finally, we witnessed how the transition from DevOps to DevSecOps typically relies on tools that facilitate automated security testing, including SAST, DAST, RASP, and SCA.
+DevSecOps is widely considered to be the future of the DevOps organization—if you aren’t practicing it today, you probably will be. The fast organization transitions to a true DevSecOps model, the more they will be prepared to address evolving threats without compromising on agility and development velocity. 
+
 
