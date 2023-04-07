@@ -20,10 +20,15 @@ Software engineering teams also use tools to automate tasks like configuring and
 While standard DevOps workflows deliver tangible business value, they are also a significant source of risk. Therefore, the security focus of DevSecOps is crucial. Securing the software development environment should be an integral part of the development process, not an afterthought.
 
 ## DevOps and  DevSecOps: 
-DevOps is a broad concept encompassing various organizational strategies. The core of DevOps is the shared responsibility between traditionally separate teams. It originated as a general paradigm with common practices but has now become a well-defined workplace culture and development process. Organizations that adopt a shared responsibility approach to development and operations can produce faster iterations and release more successful applications. DevSecOps extends this philosophy by incorporating security goals and practices into the overall business objectives.
+DevOps is a broad concept encompassing various organizational strategies. The core of DevOps is the shared responsibility between traditionally separate teams. It originated as a general paradigm with common practices but has now become a well-defined workplace culture and development process.
+
+Organizations that adopt a shared responsibility approach to development and operations can produce faster iterations and release more successful applications. DevSecOps extends this philosophy by incorporating security goals and practices into the overall business objectives.
+
 DevSecOps is a natural evolution of DevOps, not a separate concept. Successful DevOps teams, already used to DevOps practices, can approach DevSecOps as the logical next step in the DevOps adoption process.
 
 While the initial objective of DevOps was to create business value in a seamless development workflow (from build to production environments), many standard DevOps tools and practices neglect security, focussing on fast releases. The result was often security bottlenecks, where traditional security pipelines were too slow for the faster DevOps process.
+
 Many organizations left security to post-production or even an external team, resulting in slow security feedback loops. 
 
 ### Difference Between DevSecOps and DevOps:
+
