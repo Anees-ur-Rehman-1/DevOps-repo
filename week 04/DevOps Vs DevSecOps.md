@@ -6,7 +6,7 @@ The DevOps philosophy promotes closer collaboration and constant communication b
 DevOps also refers to a cultural change, such as building trust between system admins and developers and aligning technology projects with business objectives. DevOps can transform an organization’s software delivery pipeline, job functions, tools, and practices.
 
 **DevSecOps**
-<span style="font-size: 20px;">Text goes here</span>
+<span style="font-size: 200px;">Text goes here</span>
 
  is a software development management approach introducing security to the DevOps equation. It creates an automated Continuous Delivery (CD) pipeline by combining development, operations, security, and infrastructure as code (IaaS).
 
