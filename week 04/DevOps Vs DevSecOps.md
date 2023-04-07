@@ -61,7 +61,7 @@ Although there are many security testing methods, it can be difficult to determi
 
 4. Runtime Application Self-Protection (RASP)—leverages real-time app data to enable the automatic identification and remediation of attacks without an administrator’s involvement.
 
-•	Software Composition Analysis (SCA)—automatically identifies third-party and open libraries in an application, identifies known vulnerabilities, and notifies users of available updates and patches.
+5.Software Composition Analysis (SCA)—automatically identifies third-party and open libraries in an application, identifies known vulnerabilities, and notifies users of available updates and patches.
 
 Code quality assessment is an important part of DevSecOps. It ensures that code is normalized and stable, making it easier for teams to keep it secure in the future. Organizations should regularly educate their developers to promote secure coding practices and ensure they implement all code changes consistently.
 
