@@ -46,9 +46,13 @@ Thus, the main difference between DevSecOps and DevOps is the emphasis on securi
 A successful DevSecOps strategy requires teams to embrace new security tools and techniques rather than trying to combine traditional security methods with modern DevOps pipelines. The DevOps process must include security tools and controls from the beginning, adapting security to the CI/CD workflow.
 
 This approach reduces vulnerabilities in production, minimizing the costs of addressing security issues and bugs. It enables scalability without compromising security, placing secure code as a core DevOps objective. DevSecOps brings security to all stages of the development and delivery process, embracing automation to accelerate security tasks.
+
 ## Transitioning from DevOps to DevSecOps:
+
 The first step towards DevSecOps is to familiarize team members with the ideas behind security. Once everyone is on board with the adoption process, the organization can start making changes to the development process. All employees must recognize the benefits of implementing application security from the start of the SDLC.
+
 Although there are many security testing methods, it can be difficult to determine which method is best for a specific organization or project. Here is an overview of the basic testing techniques:
+
 •	Static Application Security Testing (SAST)—examines code to identify weaknesses.
 •	Dynamic Application Security Testing (DAST)—involves administrators identifying vulnerabilities and security gaps.
 •	Interactive Application Security Testing (IAST)—combines SAST and DAST to enable software instrumentation to screen applications.
