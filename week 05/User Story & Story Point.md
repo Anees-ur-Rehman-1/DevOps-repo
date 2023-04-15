@@ -9,10 +9,10 @@ Story points, on the other hand, are a relative measure of the effort required t
 
 The INVEST acronym is a set of characteristics that help ensure that user stories are well-written and well-understood. These characteristics are:
 
-Independent: User stories should be self-contained and not dependent on other stories.
-Negotiable: User stories should be flexible and open to discussion and refinement.
-Valuable: User stories should deliver value to the user or customer.
-Estimable: User stories should be able to be estimated in terms of effort or story points.
+**Independent:** User stories should be self-contained and not dependent on other stories.
+**Negotiable:** User stories should be flexible and open to discussion and refinement.
+**Valuable:** User stories should deliver value to the user or customer.
+**Estimable:** User stories should be able to be estimated in terms of effort or story points.
 Small: User stories should be small enough to be completed in a single sprint.
 Testable: User stories should be testable to ensure that they meet the acceptance criteria.
 An epic is a large user story that can be broken down into smaller, more manageable stories. Epics are used when a feature or functionality is too large or complex to be captured in a single user story. The process for creating and managing epics typically involves:
