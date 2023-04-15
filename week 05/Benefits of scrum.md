@@ -19,4 +19,4 @@ Scrum's emphasis on frequent testing and customer feedback helps to identify and
 ## Greater Transparency: 
 Scrum provides greater transparency throughout the project, as team members are required to share information and progress updates regularly. This helps to ensure that everyone is on the same page, reducing the risk of miscommunication or misunderstandings.
 
-Overall, Scrum offers a number of benefits to project teams, including improved collaboration, productivity, and flexibility, as well as reduced risk and increased transparency. These benefits make Scrum an ideal framework for managing complex and dynamic projects.
+Overall, Scrum offers a number of benefits to project teams, including improved collaboration, productivity, and flexibility, as well as reduced risk and increased transparency. These benefits make Scrum an ideal framework for managing complex and dynamic projects
