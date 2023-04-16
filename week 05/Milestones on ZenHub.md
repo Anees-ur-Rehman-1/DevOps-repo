@@ -21,7 +21,7 @@ The development team should break down the user stories into smaller tasks that 
 ## Plan Sprint Milestones: 
 The product owner and development team should plan the sprint milestones, which include key events and deadlines that need to be met during the sprint. Sprint milestones help the team stay on track and ensure that they are making progress towards their goals.
 
-To create user stories and add them to milestones on ZenHub, follow these steps:
+### To create user stories and add them to milestones on ZenHub, follow these steps:
 
 ## Open ZenHub: 
 Log in to your ZenHub account and open the repository where you want to add user stories and milestones.
