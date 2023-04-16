@@ -28,7 +28,7 @@ The goal of the sprint retrospective is to continuously improve the development 
 
 The goal of the sprint review is to ensure that the development team is meeting the needs of the stakeholders and that the work is aligned with the product vision.
 
-## 4. Potential attendees of these meetings include:
+## Potential attendees of these meetings 
 
 * Development team members
 * Product owner
