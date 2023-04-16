@@ -1,4 +1,4 @@
-
+ # User Stories and Story Points
 User stories and story points are commonly used in Agile software development as a way to describe features or requirements in a concise and measurable way.
 
 ## User stories
