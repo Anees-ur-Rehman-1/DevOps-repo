@@ -3,10 +3,10 @@ A sprint is a time-boxed iteration in Scrum methodology, during which a specific
 
 ### The typical steps involved in a sprint are as follows:
 
-## Sprint planning meeting:
+## 1. Sprint planning meeting:
  At the beginning of each sprint, the development team holds a sprint planning meeting to determine what work will be completed during the sprint. The product owner presents the highest priority items from the product backlog, and the development team works together to determine how much work they can commit to completing during the sprint.
 
-## Daily stand-up meetings: 
+## 2.Daily stand-up meetings: 
 Each day during the sprint, the development team holds a daily stand-up meeting. The purpose of the meeting is for each team member to share progress on their work, discuss any issues or obstacles, and identify any changes that need to be made to the sprint plan.
 
 ## Sprint backlog: 
