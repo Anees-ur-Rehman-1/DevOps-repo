@@ -4,9 +4,9 @@ Agile development involves a daily workflow that is designed to keep the develop
 ## 1. Daily Standup: 
 The daily standup is a short meeting where the development team meets to discuss their progress, identify any obstacles, and plan their work for the day. The meeting should be kept short and focused on the following three questions:
 
-. What did you accomplish yesterday?
-. What are you planning to work on today?
-. Are there any obstacles that are preventing you from making progress?
+* What did you accomplish yesterday?
+* What are you planning to work on today?
+* Are there any obstacles that are preventing you from making progress?
 
 The goal of the daily standup is to keep the team aligned and ensure that everyone is working towards the same goals.
 
