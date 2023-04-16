@@ -24,5 +24,5 @@ After the sprint review, the development team holds a sprint retrospective meeti
 # Length of a Sprint
 The length of a sprint is typically 1-4 weeks, with 2 weeks being the most common duration. The length of the sprint is determined by the team, based on factors such as the complexity of the project, the size of the team, and the organization's development cycle. The sprint length should be long enough to allow the team to complete a meaningful amount of work, but short enough to maintain focus and momentum on the project.
 
-In summary, a sprint is a time-boxed iteration in Scrum methodology, during which the development team works to complete a specific set of user stories or tasks. The sprint is a structured approach to project development, and involves several key steps including sprint planning, daily stand-up meetings, development work, sprint review, and sprint retrospective. The length of the sprint is typically 1-4 weeks, and is determined by the team based on various factors.
+By conducting regular sprints, teams can deliver value to the customer in a consistent and iterative manner, while also allowing for feedback and adaptation throughout the development process.
 
