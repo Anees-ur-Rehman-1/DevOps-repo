@@ -1,5 +1,5 @@
 # Product Backlog
-A product backlog is a prioritized list of user stories or features that describes the work that needs to be done for a product. The product backlog is owned by the product owner and is used by the development team to plan and prioritize their work.
+   A product backlog is a prioritized list of user stories or features that describes the work that needs to be done for a product. The product backlog is owned by the product owner and is used by the development team to plan and prioritize their work.
 
 ### Here are the steps to effectively build a product backlog:
 
@@ -38,4 +38,5 @@ The product owner and development team should review each user story and ensure 
 ## 5. Communicate Changes:
 Finally, the product owner should communicate any changes to the backlog to stakeholders and ensure that everyone is aligned on the product vision and priorities
 
-In summary, a product backlog is a prioritized list of features or requirements for a product, maintained by the product owner in Scrum methodology. Effective ways to build a product backlog include defining the product vision, identifying user needs, creating user stories, and prioritizing the backlog. Backlog refinement is the process of reviewing and updating the backlog to ensure that it remains relevant and useful, and involves steps such as reviewing the backlog, prioritizing items, adding new items, refining user stories, and estimating effort.
+
+   In summary, a product backlog is a prioritized list of features or requirements for a product, maintained by the product owner in Scrum methodology. Effective ways to build a product backlog include defining the product vision, identifying user needs, creating user stories, and prioritizing the backlog. Backlog refinement is the process of reviewing and updating the backlog to ensure that it remains relevant and useful, and involves steps such as reviewing the backlog, prioritizing items, adding new items, refining user stories, and estimating effort.
