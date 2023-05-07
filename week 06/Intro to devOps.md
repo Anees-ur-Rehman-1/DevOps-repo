@@ -102,22 +102,27 @@ Now if we check about the workflow of DevOps. The main feature includes Continuo
 
 # How is DevOps different from Agile?
 
-|||
+|DevOps|Agile|
+|:-----|:----|
+|DevOps deals with filling the time gap between the development team and the operations team.|Agile methodology deals with filling the gap between customers and the company.|
+|Here the feedback will be coming from the Operations team to the development team.|Here the feedback will be coming from the customers to the company.|
+|It focuses on constant testing and delivery.|	It focuses on constant changes.|
+|Some of the tools used in DevOps: Puppet, AWS|Some of the tools used for Agile: JIRA, Bugzilla, Kanboard|
 
 
-Advantages and Disadvantages of DevOps:
-Advantages:
+# Advantages and Disadvantages of DevOps:
+## Advantages:
 Faster development of software and quick deliveries.
 DevOps is flexible and adaptable to changes easily.
 Compared to the previous software development models confusion about the project is decreased due to which the product quality and efficiency are increased.
 The gap between the development team and operation team was bridged. i.e, the communication between the teams has been increased.
 Efficiency is increased by the addition of automation which includes continuous integration and continuous deployment.
 Customer satisfaction is enhanced.
-Disadvantages:
+## Disadvantages:
 DevOps is expensive.
 Certain levels of skills are required for maintaining the DevOps architecture.
 Adopting DevOps technology into the traditional style of industries is quite a challenge.
 
-##Summary:
+## Summary:
 Now that we’ve covered all of the fundamentals of DevOps in this DevOps Tutorial article, you should understand why we chose DevOps over other software development methodologies [such as waterfall and agile]. Aside from that, we went through some of the most popular DevOps applications. I hope this has clarified some of the core DevOps concepts and given you a better understanding of why DevOps is needed.
 
