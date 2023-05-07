@@ -32,6 +32,6 @@ So, DevOps is the solution to this problem. DevOps is a practice or a methodolog
 # Waterfall Model 
 Let’s consider traditionally developing software using a Waterfall Model in this Devops Tutorial.
 
-
+![Waterfall-Model-Devops-Tutorial-Edureka](https://user-images.githubusercontent.com/125833255/236693399-4b42147d-4e2d-47e7-b780-47ce5a2867e5.png)
 
 
