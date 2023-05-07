@@ -27,8 +27,7 @@ Here, the problem arises when the development team continuously changes the code
 
 So, DevOps is the solution to this problem. DevOps is a practice or a methodology in which the development and operations teams work together by including automation at the initial stages. So they can work on rapidly changing systems, fix bugs, and help to deliver a good quality of software in time.
 
-
-
+![DevOps model](https://user-images.githubusercontent.com/125833255/236693347-b96b87c4-9df6-44ce-8da6-4ee1ba7a768d.png)
 
 # Waterfall Model 
 Let’s consider traditionally developing software using a Waterfall Model in this Devops Tutorial.
