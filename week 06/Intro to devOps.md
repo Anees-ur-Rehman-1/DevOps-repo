@@ -73,5 +73,51 @@ In the above diagram in this Devops Tutorial you can see that both Development a
 # DevOps Architecture:
 Let us now discuss different phases of DevOps architecture:
 
+![Picture2](https://user-images.githubusercontent.com/125833255/236693702-546f2d00-c7e2-4be3-a448-f7f51450eeee.png)
 
+Plan – In DevOps planning plays an important role. In this stage, all the requirements of the project and everything regarding the project like time for each stage, cost. etc are discussed. This will help everyone in teams to get a brief idea about the project. 
+Code – In this Stage the code is written over here according to the client’s requirements. Here the code is divided into small codes called Units. This is done to get a clear picture of the code. For example, if the team is doing a project on an online -Ekart application then the login part is divided as one unit, after login the page which shows all the categories is divided as another unit, user profile as another unit, etc. 
+
+Some of the examples of the tools used are Git, JIRA
+
+Build – In this stage Building of the units is done. Some of the examples of the tools used are maven, Gradle.
+Test – Testing of all units is done in this stage. So we will get to know where exactly the code is having bugs and if there are mistakes found it is returned. Some of the examples of the tools used are Selenium, PYtest
+Integrate – In this stage, all the units of the codes are integrated. That means in this step we will be creating a connection between the development team and the operation team to implement Continuous Integration and Continuous Deployment. An example of the tool used is Jenkins. 
+Deploy – In this stage, the code is deployed on the client’s environment. Some of the examples of the tools used are AWS, Docker.
+Operate – Operations are performed on the code if required. Some of the examples of the tools used are Kubernetes, open shift.
+Monitor – In this stage monitoring of the application is done over here in the client’s environment. Some of the examples of the tools used are Nagios, elastic stack.
+
+How is DevOps different from traditional IT in this Devops Tutorial?
+ Let us take a look at some key differences between traditional IT and DevOps in this Devops Tutorial.
+
+Let us take a look at the workflow of traditional IT methods and DevOps to get a better understanding of the differences between them.
+
+In traditional IT methods [specifically waterfall method] the developer writes the code in their coding environment. Once the development is complete they will inform the operations team to test the code. 
+
+
+Now the operations team will be taking the code from the coding repository and will be passing through some test cases. If there are any bugs detected then it’s sent back again to the development team. This is continued till the bugs are resolved. So as we can see the main problem is, there is a lot of time is wasted because the testing is done only when the coding is completed. So if there is a small mistake by developers. For finding that small mistake the whole testing process is done again. So the solution for this problem is implementing testing at the early stages [development stage].
+
+Now if we check about the workflow of DevOps. The main feature includes Continuous Integration and Continuous Deployment pipeline. By which the previous problem can be resolved. So now the development team need not wait for the results of their code. By including the automation feature at the initial stages [development stage] we can get the knowledge about bugs at initial stages and they can be solved quickly. So there will be a faster deployment and quick delivery of the software.
+
+
+# How is DevOps different from Agile?
+
+|||
+
+
+Advantages and Disadvantages of DevOps:
+Advantages:
+Faster development of software and quick deliveries.
+DevOps is flexible and adaptable to changes easily.
+Compared to the previous software development models confusion about the project is decreased due to which the product quality and efficiency are increased.
+The gap between the development team and operation team was bridged. i.e, the communication between the teams has been increased.
+Efficiency is increased by the addition of automation which includes continuous integration and continuous deployment.
+Customer satisfaction is enhanced.
+Disadvantages:
+DevOps is expensive.
+Certain levels of skills are required for maintaining the DevOps architecture.
+Adopting DevOps technology into the traditional style of industries is quite a challenge.
+
+##Summary:
+Now that we’ve covered all of the fundamentals of DevOps in this DevOps Tutorial article, you should understand why we chose DevOps over other software development methodologies [such as waterfall and agile]. Aside from that, we went through some of the most popular DevOps applications. I hope this has clarified some of the core DevOps concepts and given you a better understanding of why DevOps is needed.
 
