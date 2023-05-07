@@ -51,24 +51,24 @@ In the above diagram in this Devops Tutorial, you will see the phases it will in
 # Waterfall Model Challenges
 The Water-fall model worked fine and served well for many years however it had some challenges. In the following diagram the challenges of Waterfall Model are highlighted.
 
-
+![WaterFall-Model-Challenges-DevOps-Tutorial-Edureka-4](https://user-images.githubusercontent.com/125833255/236693658-f7c7bc35-083f-4276-a369-225ff5d62374.png)
 
 
 In the above diagram in this Devops Tutorial you can see that both Development and Operations had challenges in the Waterfall Model.  From Developers point of view there were majorly two challenges:
 
-1.After Development, the code deployment time was huge.
+1. After Development, the code deployment time was huge.
 
-2.Pressure of work on old, pending and new code was high because development and deployment time was high. On the other hand, Operations was also not completely satisfied.
+2. Pressure of work on old, pending and new code was high because development and deployment time was high. On the other hand, Operations was also not completely satisfied.
 
-There were four major challenges they faced as per the above diagram in this Devops Tutorial:
+**There were four major challenges they faced as per the above diagram in this Devops Tutorial:**
 
-1.It was difficult to maintain ~100% uptime of the production environment.
+1. It was difficult to maintain ~100% uptime of the production environment.
 
-2.Infrastructure Automation tools were not very affective.
+2. Infrastructure Automation tools were not very affective.
 
-3.Number of severs to be monitored keeps on increasing with time and hence the complexity.
+3. Number of severs to be monitored keeps on increasing with time and hence the complexity.
 
-4.It was very difficult to provide feedback and diagnose issue in the product.
+4. It was very difficult to provide feedback and diagnose issue in the product.
 
 # DevOps Architecture:
 Let us now discuss different phases of DevOps architecture:
