@@ -56,9 +56,9 @@ The Water-fall model worked fine and served well for many years however it had s
 
 In the above diagram in this Devops Tutorial you can see that both Development and Operations had challenges in the Waterfall Model.  From Developers point of view there were majorly two challenges:
 
-1. After Development, the code deployment time was huge.
+* After Development, the code deployment time was huge.
 
-2. Pressure of work on old, pending and new code was high because development and deployment time was high. On the other hand, Operations was also not completely satisfied.
+* Pressure of work on old, pending and new code was high because development and deployment time was high. On the other hand, Operations was also not completely satisfied.
 
 **There were four major challenges they faced as per the above diagram in this Devops Tutorial:**
 
@@ -75,17 +75,23 @@ Let us now discuss different phases of DevOps architecture:
 
 ![Picture2](https://user-images.githubusercontent.com/125833255/236693702-546f2d00-c7e2-4be3-a448-f7f51450eeee.png)
 
-Plan – In DevOps planning plays an important role. In this stage, all the requirements of the project and everything regarding the project like time for each stage, cost. etc are discussed. This will help everyone in teams to get a brief idea about the project. 
-Code – In this Stage the code is written over here according to the client’s requirements. Here the code is divided into small codes called Units. This is done to get a clear picture of the code. For example, if the team is doing a project on an online -Ekart application then the login part is divided as one unit, after login the page which shows all the categories is divided as another unit, user profile as another unit, etc. 
+* Plan – In DevOps planning plays an important role. In this stage, all the requirements of the project and everything regarding the project like time for each stage, cost. etc are discussed. This will help everyone in teams to get a brief idea about the project. 
+
+* Code – In this Stage the code is written over here according to the client’s requirements. Here the code is divided into small codes called Units. This is done to get a clear picture of the code. For example, if the team is doing a project on an online -Ekart application then the login part is divided as one unit, after login the page which shows all the categories is divided as another unit, user profile as another unit, etc. 
 
 Some of the examples of the tools used are Git, JIRA
 
-Build – In this stage Building of the units is done. Some of the examples of the tools used are maven, Gradle.
-Test – Testing of all units is done in this stage. So we will get to know where exactly the code is having bugs and if there are mistakes found it is returned. Some of the examples of the tools used are Selenium, PYtest
-Integrate – In this stage, all the units of the codes are integrated. That means in this step we will be creating a connection between the development team and the operation team to implement Continuous Integration and Continuous Deployment. An example of the tool used is Jenkins. 
-Deploy – In this stage, the code is deployed on the client’s environment. Some of the examples of the tools used are AWS, Docker.
-Operate – Operations are performed on the code if required. Some of the examples of the tools used are Kubernetes, open shift.
-Monitor – In this stage monitoring of the application is done over here in the client’s environment. Some of the examples of the tools used are Nagios, elastic stack.
+* Build – In this stage Building of the units is done. Some of the examples of the tools used are maven, Gradle.
+
+* Test – Testing of all units is done in this stage. So we will get to know where exactly the code is having bugs and if there are mistakes found it is returned. Some of the examples of the tools used are Selenium, PYtest
+
+* Integrate – In this stage, all the units of the codes are integrated. That means in this step we will be creating a connection between the development team and the operation team to implement Continuous Integration and Continuous Deployment. An example of the tool used is Jenkins. 
+
+* Deploy – In this stage, the code is deployed on the client’s environment. Some of the examples of the tools used are AWS, Docker.
+
+* Operate – Operations are performed on the code if required. Some of the examples of the tools used are Kubernetes, open shift.
+
+* Monitor – In this stage monitoring of the application is done over here in the client’s environment. Some of the examples of the tools used are Nagios, elastic stack.
 
 How is DevOps different from traditional IT in this Devops Tutorial?
  Let us take a look at some key differences between traditional IT and DevOps in this Devops Tutorial.
