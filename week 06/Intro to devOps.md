@@ -34,4 +34,35 @@ Let’s consider traditionally developing software using a Waterfall Model in th
 
 ![Waterfall-Model-Devops-Tutorial-Edureka](https://user-images.githubusercontent.com/125833255/236693399-4b42147d-4e2d-47e7-b780-47ce5a2867e5.png)
 
+In the above diagram in this Devops Tutorial, you will see the phases it will involve:
+
+**In phase 1** – Complete Requirement is gathered and SRS is developed
+**In phase 2** – This System is Planned and Designed using the SRS
+**In phase 3** – Implementation of the System takes place
+**In phase 4** – System is tested and its quality is assured
+**In phase 5** – System is deployed to the end users
+**In phase 6** – Regular Maintenance of the system is done
+
+# Waterfall Model Challenges
+The Water-fall model worked fine and served well for many years however it had some challenges. In the following diagram the challenges of Waterfall Model are highlighted.
+
+
+
+
+In the above diagram in this Devops Tutorial you can see that both Development and Operations had challenges in the Waterfall Model.  From Developers point of view there were majorly two challenges:
+
+1.After Development, the code deployment time was huge.
+2.Pressure of work on old, pending and new code was high because development and deployment time was high. On the other hand, Operations was also not completely satisfied.
+
+There were four major challenges they faced as per the above diagram in this Devops Tutorial:
+
+1.It was difficult to maintain ~100% uptime of the production environment.
+2.Infrastructure Automation tools were not very affective.
+3.Number of severs to be monitored keeps on increasing with time and hence the complexity.
+4.It was very difficult to provide feedback and diagnose issue in the product.
+
+# DevOps Architecture:
+Let us now discuss different phases of DevOps architecture:
+
+
 
