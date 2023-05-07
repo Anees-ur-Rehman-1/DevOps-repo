@@ -26,3 +26,13 @@ As we know about the problems faced in traditional models like in the waterfall 
 Here, the problem arises when the development team continuously changes the code for better performance and sends the code to the operations team for testing. But there may be a delay in the operations team feedback in situations like if the developers sent code for review at night but due to the unavailability of the operations team, there will be a delay in the project feedback.
 
 So, DevOps is the solution to this problem. DevOps is a practice or a methodology in which the development and operations teams work together by including automation at the initial stages. So they can work on rapidly changing systems, fix bugs, and help to deliver a good quality of software in time.
+
+
+
+
+# Waterfall Model 
+Let’s consider traditionally developing software using a Waterfall Model in this Devops Tutorial.
+
+
+
+
