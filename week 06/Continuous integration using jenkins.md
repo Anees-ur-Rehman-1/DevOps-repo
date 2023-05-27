@@ -11,7 +11,7 @@ To set up Continuous Integration using Jenkins, follow these general steps:
 
 3. Create a new Jenkins job: In Jenkins, a job represents a task that needs to be executed, such as building and testing your code. Create a new job by selecting "New Item" from the Jenkins dashboard and choosing the appropriate job type (e.g., Freestyle project, Pipeline).
 
-4. Configure your job: Provide a name for your job and configure its settings. For example, specify the source code repository URL, the branch to build, and the build triggers (e.g., polling for changes, webhooks).
+4. Configure your job: Provide a name for your job and configure its settings. For example, specify the source code repository URL, the branch to build, and the build triggers (e.g., polling for changes, webhooks)
 
 5. Define build steps: Depending on your project's requirements, define the necessary build steps. This may involve compiling code, running tests, generating documentation, or any other required tasks. Jenkins provides a wide range of plugins to support various build tools and technologies.
 
