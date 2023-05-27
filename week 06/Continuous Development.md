@@ -12,7 +12,7 @@ In the delivery phase, developers will review and merge code changes that are th
 
 When the checks pass the package is automatically deployed to production. Continuous deployment is the full end-to-end, automated software deployment pipeline. 
 
-
+![cd-diagram@2x](https://github.com/Anees-ur-Rehman-1/DevOps-repo/assets/125833255/c33f394c-0afa-494d-82b0-87594ecb35ab)
 
 
 ## What are the benefits of continuous deployment?
@@ -20,7 +20,7 @@ Continuous deployment offers incredible productivity benefits for software devel
 
 From a business perspective, continuous delivery allows a company to respond to changing market demands by rapidly deploying and validating new ideas and features. 
 
-## Continuous deployment tools
+# Continuous deployment tools
 Once you adopt automated testing it is a good idea to couple it with a test coverage tool that will give you an idea of how much of your codebase is covered by your test suite.
 
 It is good to aim a coverage above 80% but be careful not to confuse high percentage of coverage with a good test suite. A code coverage tool will help you find untested code but it is the quality of your tests that will make the difference at the end of the day.
@@ -36,7 +36,7 @@ The distinguishing feature between continuous deployment and delivery is the aut
 ## Monitoring and alerts
 A robust continuous deployment pipeline will have real-time monitoring and alerts. These tools provide visibility into the health of the overall system and into the before and after state of new code deployments. Additionally, alerts can be used to trigger a rolling deployment ‘undo’ to revert a failed deployment.
 
-## Continuous deployment best practices
+# Continuous deployment best practices
 Once a continuous deployment pipeline is established, ongoing maintenance and participation are required from the engineering team to ensure its success. The following best practices and behaviors will ensure an engineering team is getting the most value out of a continuous deployment pipeline.
 
 ## Test-driven development
