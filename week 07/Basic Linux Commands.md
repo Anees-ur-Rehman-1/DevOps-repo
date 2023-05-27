@@ -18,6 +18,7 @@ As a DevOps practitioner, having a good understanding of basic Linux commands is
 5.  rm: Remove files and directories.
 
     Example: rm file.txt to delete a file named "file.txt".
+    
     Example: rm -r directory to remove a directory and its contents recursively.
 
 6.  cp: Copy files and directories.
@@ -27,6 +28,7 @@ As a DevOps practitioner, having a good understanding of basic Linux commands is
 7.  mv: Move or rename files and directories.
 
     Example: mv file.txt /path/to/destination to move "file.txt" to a specified destination.
+    
     Example: mv old_name new_name to rename a file or directory.
 
 8.  cat: Display the contents of a file.
@@ -68,6 +70,7 @@ As a DevOps practitioner, having a good understanding of basic Linux commands is
 17.  tar: Create or extract compressed archives.
 
      Example: tar -czvf archive.tar.gz directory to create a compressed archive of a directory.
+     
      Example: tar -xzvf archive.tar.gz to extract files from a compressed archive.
 
 These are just a few examples of Linux commands commonly used in DevOps. The Linux command-line interface offers a vast array of commands and options, so it's recommended to explore the manual pages (man command) for more detailed information about each command's usage and options.
